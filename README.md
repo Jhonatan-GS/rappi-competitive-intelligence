@@ -28,30 +28,27 @@ Sistema de scraping automatizado que recolecta datos de pricing, fees y operaci�
 ---
 
 ## 🏗️ Arquitectura
-┌──────────────┐  ┌──────────────┐  ┌──────────────┐
-│  Rappi API   │  │ Uber Eats    │  │  DiDi Food   │
-│ (reverse-eng)│  │ (HTML+JSON-LD│  │ (HTML server │
-│              │  │  embebido)   │  │  side)       │
-└──────┬───────┘  └──────┬───────┘  └──────┬───────┘
-│                 │                 │
-└────────┬────────┴────────┬────────┘
-▼                 ▼
-┌───────────────┐   ┌──────────────┐
-│  data/raw/    │   │  parsers     │
-│  (json + html)│──▶│  (pandas)    │
-└───────────────┘   └──────┬───────┘
-▼
-┌──────────────────┐
-│  master.csv      │
-│  (235 datapoints)│
-└────────┬─────────┘
-▼
-┌────────────────┴─────────────────┐
-▼                                  ▼
-┌──────────────┐                  ┌──────────────┐
-│ LLM insights │                  │  Streamlit   │
-│ (Groq Llama) │                  │  dashboard   │
-└──────────────┘                  └──────────────┘
+
+```mermaid
+flowchart TD
+    A[Rappi API<br/>reverse-engineered]:::rappi
+    B[Uber Eats<br/>HTML + JSON-LD embebido]:::uber
+    C[DiDi Food<br/>HTML server-side]:::didi
+
+    A --> D[data/raw/<br/>JSON + HTML]
+    B --> D
+    C --> D
+
+    D --> E[Parsers<br/>pandas + regex]
+    E --> F[(master.csv<br/>235 datapoints)]
+
+    F --> G[LLM Insights<br/>Groq · Llama 3.3]
+    F --> H[Streamlit Dashboard<br/>Plotly]
+
+    classDef rappi fill:#FF441F,stroke:#fff,color:#fff
+    classDef uber fill:#06C167,stroke:#fff,color:#fff
+    classDef didi fill:#FF7A1F,stroke:#fff,color:#fff
+```
 
 ### Decisiones técnicas
 
@@ -189,6 +186,8 @@ Donde el directorio público de DiDi y Uber Eats coincide con un store físico y
 ---
 
 ## 📂 Estructura del proyecto
+
+```text
 rappi_competitive_intelligence/
 ├── src/
 │   ├── config.py                  # Zonas, store paths, brand IDs
@@ -214,7 +213,7 @@ rappi_competitive_intelligence/
 ├── .env                           # NO commiteado
 ├── .gitignore
 └── README.md
-
+```
 ---
 
 ## 🔄 Reproducibilidad
