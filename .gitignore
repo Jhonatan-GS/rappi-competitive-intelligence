@@ -1,0 +1,12 @@
+﻿venv/
+__pycache__/
+*.pyc
+.env
+.env.local
+data/raw/*.html
+data/screenshots/*
+logs/*.log
+.streamlit/secrets.toml
+.vscode/
+.idea/
+*.DS_Store
