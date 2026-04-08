@@ -2,7 +2,7 @@
 
 Sistema de scraping automatizado que recolecta datos de pricing, fees y operación de **McDonald's en CDMX** a través de Rappi, Uber Eats y DiDi Food, y genera insights accionables para los equipos de Pricing y Strategy de Rappi.
 
-**Caso técnico — AI Engineer @ Rappi · Jhonatan Salgado**
+**Caso técnico — AI Engineer @ Rappi · Jhonatan Guerrero**
 
 ---
 
