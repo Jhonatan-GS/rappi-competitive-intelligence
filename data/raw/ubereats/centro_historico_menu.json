@@ -1,0 +1,1027 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "@id": "https://www.ubereats.com/mx/store/mcdonalds-palma/pKIEbILTS0Cb056hHIHz7g",
+  "name": "McDonald's Palma",
+  "servesCuisine": [
+    "Americana",
+    "Comida rápida",
+    "Pollo frito",
+    "Desayuno y brunch",
+    "Hamburguesas"
+  ],
+  "priceRange": "$$",
+  "image": [
+    "https://tb-static.uber.com/prod/image-proc/processed_images/102a1335b54b71d7a9a5329dceb2f3ad/19ec62ba51fde35ba0aff5b84321c5af.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/102a1335b54b71d7a9a5329dceb2f3ad/c67d558c633281f9c71fc6a90ef470ae.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/102a1335b54b71d7a9a5329dceb2f3ad/8681e511c0910e0052cb155c50f01f89.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/102a1335b54b71d7a9a5329dceb2f3ad/6ea4f72e303000fbf403bbb36f971f85.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/102a1335b54b71d7a9a5329dceb2f3ad/4bee0baf259f2b3c95aacdebea87e950.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/102a1335b54b71d7a9a5329dceb2f3ad/5283d81c664b43c5f57a3a186d273063.jpeg"
+  ],
+  "potentialAction": {
+    "@type": "OrderAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.ubereats.com/mx/store/mcdonalds-palma/pKIEbILTS0Cb056hHIHz7g?utm_campaign=order-action&amp;utm_medium=organic",
+      "inLanguage": "Español",
+      "actionPlatform": [
+        "https://schema.org/DesktopWebPlatform",
+        "https://schema.org/MobileWebPlatform"
+      ]
+    },
+    "deliveryMethod": [
+      "http://purl.org/goodrelations/v1#DeliveryModeOwnFleet"
+    ]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Ciudad de México",
+    "addressRegion": "CDMX",
+    "postalCode": "06000",
+    "addressCountry": "MX",
+    "streetAddress": "Calle de Tacuba 80, Centro Histórico, Centro"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 19.4353287,
+    "longitude": -99.1348308
+  },
+  "telephone": "+529982403686",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.6,
+    "reviewCount": 10000
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Sunday",
+      "opens": "12:00",
+      "closes": "21:45"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Sunday",
+      "opens": "00:00",
+      "closes": "03:45"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Sunday",
+      "opens": "08:00",
+      "closes": "11:45"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "opens": "12:00",
+      "closes": "21:45"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "opens": "08:00",
+      "closes": "11:45"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Friday",
+      "opens": "12:00",
+      "closes": "23:59"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Friday",
+      "opens": "08:00",
+      "closes": "11:45"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Saturday",
+      "opens": "12:00",
+      "closes": "23:59"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Saturday",
+      "opens": "00:00",
+      "closes": "03:45"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Saturday",
+      "opens": "08:00",
+      "closes": "11:45"
+    }
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": [
+      {
+        "@type": "MenuSection",
+        "name": "Mario Galaxy, La Película",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Mario Galaxy, La Película",
+            "description": "Pide tu Cajita Feliz de McNuggets 4 piezas; Incluye papas kids y Yoplait.",
+            "offers": {
+              "@type": "Offer",
+              "price": "314.00",
+              "priceCurrency": "MXN"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Mc para Todos",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Cajita Feliz  McNuggets Plus",
+            "description": "Cajita Feliz 4 McNuggets + Hamburguesa con Queso + Papas grandes",
+            "offers": {
+              "@type": "Offer",
+              "price": "277.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McTrío Hamb con Queso",
+            "description": "Hamburguesa con 1 carne 100% de res, preparadas con cebolla, queso tipo americano, pepinillos, catsup y mostaza. Incluye papas medianas y refresco de 16Oz",
+            "offers": {
+              "@type": "Offer",
+              "price": "95.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McTrío Hamb Dbl con Queso",
+            "description": "Hamburguesa con 2 carnes 100% de res, preparadas con cebolla, queso tipo americano, pepinillos, catsup y mostaza. Incluye papas medianas y refresco de 16Oz",
+            "offers": {
+              "@type": "Offer",
+              "price": "105.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McTrío Hamb Triple con Queso",
+            "description": "Hamburguesa con 3 carnes 100% de res, preparadas con cebolla, queso tipo americano, pepinillos, catsup y mostaza. Incluye papas medianas y refresco de 16Oz",
+            "offers": {
+              "@type": "Offer",
+              "price": "115.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McTrío mediano Hamburguesa Queso Spicy",
+            "description": "McTrío mediano Hamburguesa Queso Spicy",
+            "offers": {
+              "@type": "Offer",
+              "price": "115.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McTrío mediano McPollo",
+            "description": "Hamburguesa con pechuga de pollo empanizada, lechuga y mayonesa. Incluye papas y refresco de 21oz.",
+            "offers": {
+              "@type": "Offer",
+              "price": "115.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Uber Snack",
+            "description": "Hamburguesa con Queso + 4 McNuggets + Refresco Chico",
+            "offers": {
+              "@type": "Offer",
+              "price": "163.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Home Office con Big Mac",
+            "description": "Big Mac + Papas Medianas",
+            "offers": {
+              "@type": "Offer",
+              "price": "174.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McPollo o Doble con Queso",
+            "description": "Elige entre McPollo o Hamburguesa Doble con Queso",
+            "offers": {
+              "@type": "Offer",
+              "price": "158.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Paquete Me encanta",
+            "description": "2 Hamburguesas con Queso + 4 Mcnuggets + Refresco Mediano",
+            "offers": {
+              "@type": "Offer",
+              "price": "232.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Paquete Botanero",
+            "description": "Disfruta tus partidos favoritos con 10 McNuggets + Papas grandes",
+            "offers": {
+              "@type": "Offer",
+              "price": "194.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Exclusivo Uber",
+            "description": "McTrío Mediano 10 McNuggets + Hamburguesa con Queso",
+            "offers": {
+              "@type": "Offer",
+              "price": "218.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McTrío Big Mac mediano+McFlurry Oreo",
+            "description": "McTrío Mediano Big Mac + McFlurry Oreo",
+            "offers": {
+              "@type": "Offer",
+              "price": "208.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Paquete Consentidos",
+            "description": "2 Hamburguesas con Queso + 2 McPollo + 2 Papas Medianas + 6 McNuggets",
+            "offers": {
+              "@type": "Offer",
+              "price": "503.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McNuggets y Papas para Todos",
+            "description": "30 McNuggets + 2 papas medianas",
+            "offers": {
+              "@type": "Offer",
+              "price": "472.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "LateNight + Postres",
+            "description": "2 Hamburguesas con Queso + 2 McPollo + 6 McNuggets + 2 Pay Queso + 2 McFlurry Oreo",
+            "offers": {
+              "@type": "Offer",
+              "price": "583.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Para compartir con Bebidas",
+            "description": "4 Hamburguesas con Queso + 10 McNuggets  + 2 Papas Grandes + 2 Refrescos Medianos",
+            "offers": {
+              "@type": "Offer",
+              "price": "619.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Paquete para 4",
+            "description": "4 Hamburguesas a elegir + 4 Papas Medianas + 4 Refrescos Medianos",
+            "offers": {
+              "@type": "Offer",
+              "price": "580.00",
+              "priceCurrency": "MXN"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Big Mac + Coca",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Big Mac Tocino + favoritos",
+            "description": "McTrío Big Mac Tocino + Hamburguesa con Queso",
+            "offers": {
+              "@type": "Offer",
+              "price": "328.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McTrío mediano Big Mac Tocino",
+            "description": "McTrío mediano Big Mac Tocino",
+            "offers": {
+              "@type": "Offer",
+              "price": "169.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Big Mac Tocino",
+            "description": "Big Mac Tocino",
+            "offers": {
+              "@type": "Offer",
+              "price": "145.00",
+              "priceCurrency": "MXN"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "McTrios Comida",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "McTrío mediano Mario Galaxy Big Mac",
+            "description": "McTrío mediano Mario Galaxy Big Mac (No incluye juguete)",
+            "offers": {
+              "@type": "Offer",
+              "price": "149.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McTrío mediano Mario Galaxy Cuarto de Libra",
+            "description": "McTrío mediano Mario Galaxy Cuarto de Libra (No incluye juguete)",
+            "offers": {
+              "@type": "Offer",
+              "price": "159.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McTrío mediano Mario Galaxy 10 McNuggets",
+            "description": "McTrío mediano Mario Galaxy 10 McNuggets (No incluye jueguete)",
+            "offers": {
+              "@type": "Offer",
+              "price": "159.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McTrío mediano Big Mac Tocino",
+            "description": "McTrío mediano Big Mac Tocino",
+            "offers": {
+              "@type": "Offer",
+              "price": "169.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McTrío mediano Big Mac",
+            "description": "McTrío mediano Big Mac",
+            "offers": {
+              "@type": "Offer",
+              "price": "149.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McTrío mediano Cuarto de Libra con Queso",
+            "description": "McTrío mediano Cuarto de Libra con Queso",
+            "offers": {
+              "@type": "Offer",
+              "price": "159.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McTrío mediano McNifica",
+            "description": "McTrío mediano McNifica",
+            "offers": {
+              "@type": "Offer",
+              "price": "159.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McTrío mediano McTocino",
+            "description": "McTrío mediano McTocino",
+            "offers": {
+              "@type": "Offer",
+              "price": "149.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McTrio mediano McNuggets 10 pzas",
+            "description": "McTrío mediano McNuggets 10 pzas",
+            "offers": {
+              "@type": "Offer",
+              "price": "159.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McTrío mediano McCrispy Cajún",
+            "description": "McTrío Mediano McCrispy Cajún",
+            "offers": {
+              "@type": "Offer",
+              "price": "179.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McTrío mediano Grand BBQ Doble",
+            "description": "McTrío Mediano Grand BBQ Bacon Doble",
+            "offers": {
+              "@type": "Offer",
+              "price": "229.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McTrío Grands BBQ Triple grande",
+            "description": "McTrio Mediano Grand Tasty BBQ Doble",
+            "offers": {
+              "@type": "Offer",
+              "price": "259.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McTrío mediano Cuarto de Libra Doble con Queso",
+            "description": "Hamburguesa con 2 carnes de res, queso americano, cebolla, pepinillos, cátsup y mostaza.  Incluye papas y refresco de 21oz.",
+            "offers": {
+              "@type": "Offer",
+              "price": "189.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McTrío mediano 2 Hamburguesas con Queso",
+            "description": "2 Hamburguesas con 1 carne 100% de res, preparadas con cebolla, queso tipo americano, pepinillos, catsup y mostaza. Incluye papas medianas y refresco de 21 Oz.",
+            "offers": {
+              "@type": "Offer",
+              "price": "139.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McTrío Grand Bacon Deluxe Triple mediano",
+            "description": "Hamburguesa Grand Bacon Deluxe Triple + Papas Medianas + Refresco Mediano",
+            "offers": {
+              "@type": "Offer",
+              "price": "259.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McTrío mediano McCrispy Spicy",
+            "description": "McTrio Mediano McCrispy Spicy",
+            "offers": {
+              "@type": "Offer",
+              "price": "159.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McTrío mediano McCrispy Deluxe",
+            "description": "McTrío McCrispy Deluxe",
+            "offers": {
+              "@type": "Offer",
+              "price": "169.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McTrío mediano CBO Doble",
+            "description": "Hamburguesa con 2 Carnes Signature, queso cheddar, tocino y cebolla.  Incluye papas y refresco de 21oz.",
+            "offers": {
+              "@type": "Offer",
+              "price": "219.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McTrío mediano Club House Doble",
+            "description": "Hamburguesa con 2 Carnes Signature, pan tipo brioche, lechuga, jitomate, queso cheddar, tocino y salsa especial.  Incluye papas y refresco de 21oz.",
+            "offers": {
+              "@type": "Offer",
+              "price": "219.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McTrío mediano McNuggets 20 pzas",
+            "description": "McTrío de 20 McNuggets, tiernos y jugosos trocitos 100% de pechuga de pollo con una capa de empanizado doradito. Incluye papas y refresco de 21oz.",
+            "offers": {
+              "@type": "Offer",
+              "price": "219.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McTrío BBQ Crispy Onion mediano 1 carne",
+            "description": "Hamburguesa con 1 Carne Signature, salsa BBQ, cebolla caramelizada, queso cheddar blanco, csrispy onion, tocino y pan brioche. Incluye papas y refresco de 21oz",
+            "offers": {
+              "@type": "Offer",
+              "price": "189.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McTrío mediano BBQ Crispy Onion Doble",
+            "description": "Hamburguesa con 2 Carnes Signature, salsa BBQ, cebolla caramelizada, queso cheddar blanco, csrispy onion, tocino y pan brioche.",
+            "offers": {
+              "@type": "Offer",
+              "price": "219.00",
+              "priceCurrency": "MXN"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Cajita Feliz",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Cajita Feliz Hamburguesa Lechuga Tomate",
+            "description": "Pide tu Cajita Feliz de Hamburguesa con Lechuga y Tomate; Incluye papas kids y Yoplait.",
+            "offers": {
+              "@type": "Offer",
+              "price": "145.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cajita Feliz Hamburguesa sin Queso",
+            "description": "Pide tu Cajita Feliz de Hamburguesa; Incluye papas kids y Yoplait.",
+            "offers": {
+              "@type": "Offer",
+              "price": "135.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cajita Feliz McNuggets de pollo 4 pzas",
+            "description": "Pide tu Cajita Feliz de McNuggets 4 piezas; Incluye papas kids y Yoplait.",
+            "offers": {
+              "@type": "Offer",
+              "price": "149.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Dúo Familia",
+            "description": "Cajita Feliz a elegir Ham LYT o 4 McNuggets + McTrío mediano Big Mac",
+            "offers": {
+              "@type": "Offer",
+              "price": "298.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cajita Feliz Hamburguesa con Queso",
+            "description": "Pide tu Cajita Feliz de Hamburguesa con Queso; Incluye papas kids y Yoplait",
+            "offers": {
+              "@type": "Offer",
+              "price": "149.00",
+              "priceCurrency": "MXN"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Tu Fav",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "McTrío mediano Hamburguesa Queso Spicy",
+            "description": "McTrío mediano Hamburguesa Queso Spicy",
+            "offers": {
+              "@type": "Offer",
+              "price": "115.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McTrío mediano McPollo",
+            "description": "Hamburguesa con pechuga de pollo empanizada, lechuga y mayonesa. Incluye papas y refresco de 21oz.",
+            "offers": {
+              "@type": "Offer",
+              "price": "115.00",
+              "priceCurrency": "MXN"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "A La Carta Comida",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Big Mac Tocino",
+            "description": "Big Mac Tocino",
+            "offers": {
+              "@type": "Offer",
+              "price": "145.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Hamburguesa Doble con Queso",
+            "description": "Hamburguesa con 2 carnes de res, queso tipo americano, pepinillos, cebolla, cátsup y mostaza",
+            "offers": {
+              "@type": "Offer",
+              "price": "69.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McNuggets de Pollo 4 pzas",
+            "description": "4 Nuggets de pechuga de pollo con una capa de empanizado doradito.",
+            "offers": {
+              "@type": "Offer",
+              "price": "59.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McNuggets de Pollo 10 pzas",
+            "description": "10 Nuggets de pechuga de pollo con una capa de empanizado doradito.",
+            "offers": {
+              "@type": "Offer",
+              "price": "135.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Hamburguesa con Queso",
+            "description": "Hamburguesa con carne de res, queso tipo americano, pepinillos, cebolla, cátsup y mostaza",
+            "offers": {
+              "@type": "Offer",
+              "price": "59.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Papas grandes",
+            "description": "Papas a la francesa clasicas doraditas y crujientes por fuera.",
+            "offers": {
+              "@type": "Offer",
+              "price": "69.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Big Mac",
+            "description": "Hamburguesa con 2 carnes de res, con salsa especial de Big Mac y queso derretido",
+            "offers": {
+              "@type": "Offer",
+              "price": "125.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cuarto De Libra Con Queso",
+            "description": "Hamburguesa con carne de res, queso americano, cebolla, pepinillos, cátsup y mostaza",
+            "offers": {
+              "@type": "Offer",
+              "price": "135.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McNífica",
+            "description": "Hamburguesa con carne de res, queso tipo americano, lechuga, cebolla, dos rebanadas de jitomate, mayonesa, cátsup, mostaza",
+            "offers": {
+              "@type": "Offer",
+              "price": "135.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McPollo",
+            "description": "Hamburguesa de pechuga de pollo empanizada, lechuga y mayonesa.",
+            "offers": {
+              "@type": "Offer",
+              "price": "89.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McNuggets de Pollo 6 pzas",
+            "description": "6 Nuggets de pechuga de pollo con una capa de empanizado doradito.",
+            "offers": {
+              "@type": "Offer",
+              "price": "89.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McNuggets de Pollo 20 pzas",
+            "description": "20 Nuggets de pechuga de pollo con una capa de empanizado doradito.",
+            "offers": {
+              "@type": "Offer",
+              "price": "199.00",
+              "priceCurrency": "MXN"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Postres",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Pay de queso",
+            "description": "Pay de queso crujiente y dorado con queso crema derretido por dentro.",
+            "offers": {
+              "@type": "Offer",
+              "price": "40.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McFlurry Oreo",
+            "description": "Helado preparado con 100% leche de vaca acompañado de trozos de galleta Oreo y jarabe de chocolate",
+            "offers": {
+              "@type": "Offer",
+              "price": "59.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McFlurry M&amp;M's",
+            "description": "Helado preparado con 100% leche  de vaca acompañado de trozos de M&amp;M's y jarabe de chocolate.",
+            "offers": {
+              "@type": "Offer",
+              "price": "59.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sundae chocolate",
+            "description": "Helado preparado con 100% leche de vaca acompañado de chocolate derretido.",
+            "offers": {
+              "@type": "Offer",
+              "price": "40.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sundae fresa",
+            "description": "Helado preparado con 100% leche de vaca acompañado de jarabe de fresa.",
+            "offers": {
+              "@type": "Offer",
+              "price": "40.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "McFlurry Chips Ahoy!",
+            "description": "Helado preparado con 100% leche de vaca acompañado de trozos de galleta Chips Ahoy! y salsa de chocolate",
+            "offers": {
+              "@type": "Offer",
+              "price": "59.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "3x2 McFlurry Oreo",
+            "description": "3X2 McFlurry Oreo",
+            "offers": {
+              "@type": "Offer",
+              "price": "177.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Paquete Pits",
+            "description": "McFlurry Oreo + Papas Grandes",
+            "offers": {
+              "@type": "Offer",
+              "price": "128.00",
+              "priceCurrency": "MXN"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Bebidas",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Coca-Cola mediana",
+            "description": "Refréscate con Coca Cola de 21 oz",
+            "offers": {
+              "@type": "Offer",
+              "price": "55.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Jugo Del Valle Naranja Pet",
+            "description": "Disfruta de nuestro Jugo del Valle de Naranja 100% natural de 237ml",
+            "offers": {
+              "@type": "Offer",
+              "price": "39.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Café Americano grande",
+            "description": "Disfruta de un café recien preparado.",
+            "offers": {
+              "@type": "Offer",
+              "price": "39.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Agua Ciel 600 ml",
+            "description": "Refréscate con nuestra presentación de 600ml",
+            "offers": {
+              "@type": "Offer",
+              "price": "35.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Coca-Cola Zero mediana",
+            "description": "Coca Zero Mediana",
+            "offers": {
+              "@type": "Offer",
+              "price": "55.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Jugo Del Valle Manzana Pet",
+            "description": "Disfruta de nuestro Jugo del Valle de Manzana 100% natural de 237ml",
+            "offers": {
+              "@type": "Offer",
+              "price": "39.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fanta sin azúcar mediana",
+            "description": "Refréscate con Fanta de Naranja de 21 oz",
+            "offers": {
+              "@type": "Offer",
+              "price": "55.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Café Americano mediano",
+            "description": "Disfruta de un café recien preparado.",
+            "offers": {
+              "@type": "Offer",
+              "price": "35.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mundet sin azúcar mediano",
+            "description": "Refréscate con Sidral Mundet Sin Azúcar de 21 oz",
+            "offers": {
+              "@type": "Offer",
+              "price": "55.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sprite sin azúcar mediano",
+            "description": "Sprite Sin Azúcar Mediano",
+            "offers": {
+              "@type": "Offer",
+              "price": "55.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Malteada vainilla",
+            "description": "Malteada con base de helado de leche con sabor vainilla",
+            "offers": {
+              "@type": "Offer",
+              "price": "65.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Malteada fresa",
+            "description": "Malteada con base de helado de leche con jarabe de fresa.",
+            "offers": {
+              "@type": "Offer",
+              "price": "65.00",
+              "priceCurrency": "MXN"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Malteada chocolate",
+            "description": "Malteada con base de helado de leche con jarabe de chocolate.",
+            "offers": {
+              "@type": "Offer",
+              "price": "65.00",
+              "priceCurrency": "MXN"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
