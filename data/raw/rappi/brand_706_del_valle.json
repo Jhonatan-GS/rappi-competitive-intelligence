@@ -6,19 +6,19 @@
   "brand_name": "McDonald's",
   "brand_id": 706,
   "store_type": "restaurant",
-  "background": "mario-1774790764693.jpg",
+  "background": "mundial-1778522721450.jpg",
   "name": "Mc Donald's  - Parque Hundido",
   "address": " Insurgentes Sur No.1122 Col. Del Valle CP 03100 México D.F",
   "schedules": [
     {
       "open_time": "00:00:00",
       "close_time": "05:45:00",
-      "day": "tue"
+      "day": "mon"
     },
     {
       "open_time": "12:00:00",
       "close_time": "23:59:00",
-      "day": "tue"
+      "day": "mon"
     }
   ],
   "delivery_methods": [
@@ -59,13 +59,13 @@
   "is_rappi_exclusive": false,
   "rating": {
     "score": 3.6,
-    "total_reviews": 458,
+    "total_reviews": 481,
     "score_info": {
-      "1": 120,
-      "2": 24,
+      "1": 124,
+      "2": 26,
       "3": 38,
-      "4": 33,
-      "5": 243
+      "4": 36,
+      "5": 257
     },
     "style": "LOW"
   },
@@ -91,12 +91,12 @@
         "title": "Envío gratis en tu pedido",
         "description": "Disfruta de este descuento exclusivo en tu pedido pagando con métodos de pago seleccionados.",
         "image": "https://rappi-images-upload-co.s3.amazonaws.com/home-ab-objects/icon-filled_promotion-1706635945.png",
-        "ends_at": "2026-05-08 23:59:59",
+        "ends_at": "2027-05-09 00:04:00",
         "applicable_stores": "Aplica en Mc Donald's  - Parque Hundido",
         "terms_and_conditions": "https://promos.rappi.com/mexico/eg30-ago2025",
         "conditions": "<b>Detalles de la oferta:</b><ul><li>Hasta $160 de descuento</li><li>Aplica pagando con Tarjeta VR, tarjeta de crédito, tarjeta de débito, Alelo, Tarjeta ELO, posterminal_debitcard, datáfono (Crédito), PayPal, default, GooglePay, Sodexo, RappiPay, RappiCard, Edenred, ApplePay, Nequi, PSE, PIX, Mercado Pago, pse_avanza, Bancolombia, Nubank</li><li>Oferta válida hasta agotar existencias</li></ul>",
         "progress_bar_details": null,
-        "expires_at": "2026-05-08 23:59:59"
+        "expires_at": "2027-05-09 00:04:00"
       },
       "card_version": null,
       "card_images": null,
@@ -105,123 +105,49 @@
       "type_filter": "shipping_filter"
     },
     {
-      "id": 5217341,
+      "id": 5054631,
       "type": "offer_by_product",
-      "tag": "64% OFF",
+      "tag": "Hasta 56% Off",
       "metadata": {},
-      "title": "Mcdo (06/04/2026)",
+      "title": "[Masiva] Hasta 31.4465% Off McTrío mediano 2 Hamburguesas con Queso",
       "description": "Partner App Discount-Product",
       "message": "",
       "url": "",
-      "value": 64,
+      "value": 56,
       "min_amount": null,
       "is_prime_exclusive": false,
       "action": null,
       "conditions": "<b>Detalles de la oferta:</b><ul><li>Oferta válida hasta agotar existencias</li></ul>",
       "apply_to_user": true,
       "card_details": {
-        "title": "Hasta 64% OFF imperdible",
+        "title": "Hasta 56% OFF imperdible",
         "description": "Disfruta este descuento en tu pedido y recíbelo en minutos.",
         "image": "https://rappi-images-upload-co.s3.amazonaws.com/home-ab-objects/icon-filled_promotion-1706635945.png",
-        "ends_at": "2026-04-13 00:00:00",
+        "ends_at": "2031-03-19 00:00:00",
         "applicable_stores": "Aplica en Mc Donald's  - Parque Hundido",
         "terms_and_conditions": "",
         "conditions": "<b>Detalles de la oferta:</b><ul><li>Oferta válida hasta agotar existencias</li></ul>",
         "progress_bar_details": null,
-        "expires_at": "2026-04-13 00:00:00"
+        "expires_at": "2031-03-19 00:00:00"
       },
       "card_version": null,
       "card_images": null,
-      "is_viral_deal": true,
+      "is_viral_deal": false,
       "color": "#76d548",
       "type_filter": "percentage_filter"
     }
   ],
   "corridors": [
     {
-      "id": 643259,
-      "name": "Big Mac + Coca",
+      "id": 772787,
+      "name": "Mundialistas",
       "index": 1,
       "products": [
         {
-          "id": "1306703466_8968271",
-          "name": "Big Mac Tocino + favoritos",
-          "description": "McTrío Big Mac Tocino + Hamburguesa con Queso",
-          "image": "13ba9d34-0507-4d01-9ec7-635160c9b174.png",
-          "index": 1,
-          "tablecloth": "",
-          "need_image": true,
-          "need_topping": true,
-          "has_toppings": true,
-          "has_recommendations": false,
-          "is_available": false,
-          "corridor_id": 643259,
-          "corridor_name": "Big Mac + Coca",
-          "corridor_index": 1,
-          "real_price": 328.0,
-          "price": 328.0,
-          "schedules": [
-            {
-              "open_time": "00:00:00",
-              "close_time": "05:45:00",
-              "day": "tue"
-            },
-            {
-              "open_time": "12:00:00",
-              "close_time": "23:59:00",
-              "day": "tue"
-            }
-          ],
-          "discount_from_go": true,
-          "store_id": 1306703466,
-          "product_id": 8968271,
-          "store_name": "",
-          "quantity": 1,
-          "is_open_forever": false,
-          "has_up_sellings": false,
-          "is_liked": false,
-          "topping_list": [],
-          "comment": "",
-          "have_discount": false,
-          "second_layer": "",
-          "quantity_bought": 0,
-          "is_popular": false,
-          "super_store_id": 1930222399,
-          "brand_name": "",
-          "in_schedule": true,
-          "elastic_version": 0,
-          "last_updated": 1775608102931,
-          "show_discount_tag": true,
-          "dietary_restrictions": null,
-          "discount_percentage": 39.0,
-          "minimum_price": -1.0,
-          "minimum_price_text": null,
-          "discounts": [
-            {
-              "type": "global_offer",
-              "value": 39.0,
-              "price": 199.0,
-              "action": "",
-              "is_prime_exclusive": false,
-              "apply_to_user": true,
-              "global_offer_ids": [
-                5054636
-              ],
-              "is_viral_deal": false
-            }
-          ],
-          "ad_request_id": "",
-          "ad_provider_metadata": "",
-          "ads_image": "",
-          "dietary_tags": null,
-          "product_category_id": null,
-          "eta": null
-        },
-        {
-          "id": "1306703466_8924432",
-          "name": "McTrío mediano Big Mac Tocino",
-          "description": "McTrío mediano Big Mac Tocino",
-          "image": "24038c0b-964c-46e2-8207-11c07da65049.png",
+          "id": "1306703466_12012894",
+          "name": "McTrio mediano McMéxico Res",
+          "description": "La McMéxico es una deliciosa hamburguesa en colaboración con Tajín®, preparada con doble carne jugosa, tocino crujiente, queso blanco, lechuga fresca, cebolla y una irresistible salsa cremosa Tajín®",
+          "image": "fa56d047-e069-4f9f-95d2-440837b94fa2.png",
           "index": 2,
           "tablecloth": "",
           "need_image": true,
@@ -229,26 +155,26 @@
           "has_toppings": true,
           "has_recommendations": false,
           "is_available": false,
-          "corridor_id": 643259,
-          "corridor_name": "Big Mac + Coca",
+          "corridor_id": 772787,
+          "corridor_name": "Mundialistas",
           "corridor_index": 1,
-          "real_price": 185.0,
-          "price": 185.0,
+          "real_price": 225.0,
+          "price": 225.0,
           "schedules": [
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
           "store_id": 1306703466,
-          "product_id": 8924432,
+          "product_id": 12012894,
           "store_name": "",
           "quantity": 1,
           "is_open_forever": false,
@@ -264,7 +190,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -279,10 +205,10 @@
           "eta": null
         },
         {
-          "id": "1306703466_8924431",
-          "name": "Big Mac Tocino",
-          "description": "Big Mac Tocino",
-          "image": "9029b687-868f-4787-9711-228dbe4af731.png",
+          "id": "1306703466_12012891",
+          "name": "McTrío mediano McUSA",
+          "description": "McUSA es una deliciosa hamburguesa que resalta los sabores tradicionales de Estados Unidos, con doble carne jugosa, queso cheddar, tocino crujiente, pepinillos, cebolla asada y salsa BBQ, creada especialmente como parte de la campaña Mundialistas para celebrar la pasión por el fútbol.",
+          "image": "0ce6880e-98a9-4bec-a71e-014a6dc5020e.png",
           "index": 3,
           "tablecloth": "",
           "need_image": true,
@@ -290,26 +216,26 @@
           "has_toppings": true,
           "has_recommendations": false,
           "is_available": false,
-          "corridor_id": 643259,
-          "corridor_name": "Big Mac + Coca",
+          "corridor_id": 772787,
+          "corridor_name": "Mundialistas",
           "corridor_index": 1,
-          "real_price": 159.0,
-          "price": 159.0,
+          "real_price": 225.0,
+          "price": 225.0,
           "schedules": [
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
           "store_id": 1306703466,
-          "product_id": 8924431,
+          "product_id": 12012891,
           "store_name": "",
           "quantity": 1,
           "is_open_forever": false,
@@ -325,7 +251,129 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
+          "show_discount_tag": true,
+          "dietary_restrictions": null,
+          "discount_percentage": 0.0,
+          "minimum_price": -1.0,
+          "minimum_price_text": null,
+          "discounts": [],
+          "ad_request_id": "",
+          "ad_provider_metadata": "",
+          "ads_image": "",
+          "dietary_tags": null,
+          "product_category_id": null,
+          "eta": null
+        },
+        {
+          "id": "1306703466_12012893",
+          "name": "McTrio mediano McMéxico Pollo",
+          "description": "La McMéxico es una deliciosa hamburguesa en colaboración con Tajín®, preparada con doble carne jugosa, tocino crujiente, queso blanco, lechuga fresca, cebolla y una irresistible salsa cremosa Tajín®",
+          "image": "b22d2b26-d531-4db5-b3a5-c9f2a92e792b.png",
+          "index": 4,
+          "tablecloth": "",
+          "need_image": true,
+          "need_topping": true,
+          "has_toppings": true,
+          "has_recommendations": false,
+          "is_available": false,
+          "corridor_id": 772787,
+          "corridor_name": "Mundialistas",
+          "corridor_index": 1,
+          "real_price": 185.0,
+          "price": 185.0,
+          "schedules": [
+            {
+              "open_time": "00:00:00",
+              "close_time": "05:45:00",
+              "day": "mon"
+            },
+            {
+              "open_time": "12:00:00",
+              "close_time": "23:59:00",
+              "day": "mon"
+            }
+          ],
+          "discount_from_go": false,
+          "store_id": 1306703466,
+          "product_id": 12012893,
+          "store_name": "",
+          "quantity": 1,
+          "is_open_forever": false,
+          "has_up_sellings": false,
+          "is_liked": false,
+          "topping_list": [],
+          "comment": "",
+          "have_discount": false,
+          "second_layer": "",
+          "quantity_bought": 0,
+          "is_popular": false,
+          "super_store_id": 1930222399,
+          "brand_name": "",
+          "in_schedule": true,
+          "elastic_version": 0,
+          "last_updated": 1778529735763,
+          "show_discount_tag": true,
+          "dietary_restrictions": null,
+          "discount_percentage": 0.0,
+          "minimum_price": -1.0,
+          "minimum_price_text": null,
+          "discounts": [],
+          "ad_request_id": "",
+          "ad_provider_metadata": "",
+          "ads_image": "",
+          "dietary_tags": null,
+          "product_category_id": null,
+          "eta": null
+        },
+        {
+          "id": "1306703466_12012892",
+          "name": "McTrío mediano McFrancia",
+          "description": "McFrancia combina sabores clásicos con un toque gourmet, preparada con pollo crujiente de McCrispy, queso cheddar, tocino, lechuga fresca, cebolla caramelizada y el inconfundible aderezo CBO,",
+          "image": "664f75fc-d34f-4a5b-8fca-b89b9b078af5.png",
+          "index": 5,
+          "tablecloth": "",
+          "need_image": true,
+          "need_topping": true,
+          "has_toppings": true,
+          "has_recommendations": false,
+          "is_available": false,
+          "corridor_id": 772787,
+          "corridor_name": "Mundialistas",
+          "corridor_index": 1,
+          "real_price": 185.0,
+          "price": 185.0,
+          "schedules": [
+            {
+              "open_time": "00:00:00",
+              "close_time": "05:45:00",
+              "day": "mon"
+            },
+            {
+              "open_time": "12:00:00",
+              "close_time": "23:59:00",
+              "day": "mon"
+            }
+          ],
+          "discount_from_go": false,
+          "store_id": 1306703466,
+          "product_id": 12012892,
+          "store_name": "",
+          "quantity": 1,
+          "is_open_forever": false,
+          "has_up_sellings": false,
+          "is_liked": false,
+          "topping_list": [],
+          "comment": "",
+          "have_discount": false,
+          "second_layer": "",
+          "quantity_bought": 0,
+          "is_popular": false,
+          "super_store_id": 1930222399,
+          "brand_name": "",
+          "in_schedule": true,
+          "elastic_version": 0,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -362,18 +410,18 @@
           "corridor_id": 575523,
           "corridor_name": "Mc para Todos",
           "corridor_index": 2,
-          "real_price": 298.0,
-          "price": 298.0,
+          "real_price": 279.0,
+          "price": 279.0,
           "schedules": [
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": true,
@@ -394,22 +442,22 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
-          "discount_percentage": 23.0,
+          "discount_percentage": 18.0,
           "minimum_price": -1.0,
           "minimum_price_text": null,
           "discounts": [
             {
               "type": "global_offer",
-              "value": 23.0,
+              "value": 18.0,
               "price": 229.0,
               "action": "",
               "is_prime_exclusive": false,
               "apply_to_user": true,
               "global_offer_ids": [
-                5194760
+                5538266
               ],
               "is_viral_deal": false
             }
@@ -442,12 +490,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -468,7 +516,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -503,12 +551,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -529,7 +577,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -564,12 +612,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -590,7 +638,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -605,10 +653,10 @@
           "eta": null
         },
         {
-          "id": "1306703466_6655534",
-          "name": "McTrío mediano Hamburguesa Queso Spicy",
-          "description": "McTrío mediano Hamburguesa Queso Spicy",
-          "image": "73be17e9-9a34-4b1f-bea6-f92d26bb8e49.png",
+          "id": "1306703466_12605559",
+          "name": "McTrío mediano Hamburguesa BBQ Cheddar",
+          "description": "McTrío Mediano BBQ Cheddar",
+          "image": "aa989545-6039-4408-a30e-a1aa04a8b38a.png",
           "index": 5,
           "tablecloth": "",
           "need_image": true,
@@ -625,17 +673,17 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
-          "discount_from_go": false,
+          "discount_from_go": true,
           "store_id": 1306703466,
-          "product_id": 6655534,
+          "product_id": 12605559,
           "store_name": "",
           "quantity": 1,
           "is_open_forever": false,
@@ -651,13 +699,26 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
-          "discount_percentage": 0.0,
+          "discount_percentage": 5.0,
           "minimum_price": -1.0,
           "minimum_price_text": null,
-          "discounts": [],
+          "discounts": [
+            {
+              "type": "global_offer",
+              "value": 5.0,
+              "price": 109.0,
+              "action": "",
+              "is_prime_exclusive": false,
+              "apply_to_user": true,
+              "global_offer_ids": [
+                5511173
+              ],
+              "is_viral_deal": false
+            }
+          ],
           "ad_request_id": "",
           "ad_provider_metadata": "",
           "ads_image": "",
@@ -686,12 +747,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": true,
@@ -712,7 +773,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 14.0,
@@ -760,12 +821,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": true,
@@ -786,7 +847,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 40.0,
@@ -834,12 +895,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": true,
@@ -860,7 +921,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 35.0,
@@ -875,7 +936,81 @@
               "is_prime_exclusive": false,
               "apply_to_user": true,
               "global_offer_ids": [
-                5221503
+                5521831
+              ],
+              "is_viral_deal": false
+            }
+          ],
+          "ad_request_id": "",
+          "ad_provider_metadata": "",
+          "ads_image": "",
+          "dietary_tags": null,
+          "product_category_id": null,
+          "eta": null
+        },
+        {
+          "id": "1306703466_10867985",
+          "name": "Paquete Pits",
+          "description": "McFlurry Oreo + Papas Grandes",
+          "image": "5d227fef-d469-4e17-a60c-24c0c7b3c11a.png",
+          "index": 9,
+          "tablecloth": "",
+          "need_image": true,
+          "need_topping": true,
+          "has_toppings": true,
+          "has_recommendations": false,
+          "is_available": false,
+          "corridor_id": 575523,
+          "corridor_name": "Mc para Todos",
+          "corridor_index": 2,
+          "real_price": 134.0,
+          "price": 134.0,
+          "schedules": [
+            {
+              "open_time": "00:00:00",
+              "close_time": "05:45:00",
+              "day": "mon"
+            },
+            {
+              "open_time": "12:00:00",
+              "close_time": "23:59:00",
+              "day": "mon"
+            }
+          ],
+          "discount_from_go": true,
+          "store_id": 1306703466,
+          "product_id": 10867985,
+          "store_name": "",
+          "quantity": 1,
+          "is_open_forever": false,
+          "has_up_sellings": false,
+          "is_liked": false,
+          "topping_list": [],
+          "comment": "",
+          "have_discount": false,
+          "second_layer": "",
+          "quantity_bought": 0,
+          "is_popular": false,
+          "super_store_id": 1930222399,
+          "brand_name": "",
+          "in_schedule": true,
+          "elastic_version": 0,
+          "last_updated": 1778529735763,
+          "show_discount_tag": true,
+          "dietary_restrictions": null,
+          "discount_percentage": 26.0,
+          "minimum_price": -1.0,
+          "minimum_price_text": null,
+          "discounts": [
+            {
+              "type": "global_offer",
+              "value": 26.0,
+              "price": 99.0,
+              "action": "",
+              "is_prime_exclusive": false,
+              "apply_to_user": true,
+              "global_offer_ids": [
+                5511161
               ],
               "is_viral_deal": false
             }
@@ -892,7 +1027,7 @@
           "name": "McPollo o Doble con Queso",
           "description": "Elige entre McPollo o Hamburguesa Doble con Queso",
           "image": "222c967f-dc8e-45a8-ae82-c293b641a6f0.png",
-          "index": 9,
+          "index": 10,
           "tablecloth": "",
           "need_image": true,
           "need_topping": true,
@@ -908,12 +1043,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": true,
@@ -934,7 +1069,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 25.0,
@@ -949,7 +1084,7 @@
               "is_prime_exclusive": false,
               "apply_to_user": true,
               "global_offer_ids": [
-                5054654
+                5631094
               ],
               "is_viral_deal": false
             }
@@ -966,7 +1101,7 @@
           "name": "Paquete Me encanta",
           "description": "2 Hamburguesas con Queso + 4 Mcnuggets + Refresco Mediano",
           "image": "750e60a3-4001-43b4-9ddf-e2254be72124.png",
-          "index": 10,
+          "index": 11,
           "tablecloth": "",
           "need_image": true,
           "need_topping": true,
@@ -982,12 +1117,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": true,
@@ -1008,7 +1143,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 35.0,
@@ -1040,7 +1175,7 @@
           "name": "Paquete Botanero",
           "description": "Disfruta tus partidos favoritos con 10 McNuggets + Papas grandes",
           "image": "3489d348-239a-43e9-a464-fb0209472e22.png",
-          "index": 11,
+          "index": 12,
           "tablecloth": "",
           "need_image": true,
           "need_topping": true,
@@ -1056,12 +1191,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": true,
@@ -1082,7 +1217,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 26.0,
@@ -1114,7 +1249,7 @@
           "name": "Paquete Exclusivo Rappi",
           "description": "2 Hamburguesas con Queso + Papas Grandes + Refresco Mediano",
           "image": "8ea59dad-4846-49df-b4e0-43500cacf8fa.png",
-          "index": 12,
+          "index": 13,
           "tablecloth": "",
           "need_image": true,
           "need_topping": true,
@@ -1130,12 +1265,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": true,
@@ -1156,7 +1291,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 37.0,
@@ -1188,7 +1323,7 @@
           "name": "McTrío Big Mac mediano+McFlurry Oreo",
           "description": "McTrío Mediano Big Mac + McFlurry Oreo",
           "image": "8faaa59b-99e5-4a8a-8f27-bb7c095cf9cc.png",
-          "index": 13,
+          "index": 14,
           "tablecloth": "",
           "need_image": true,
           "need_topping": true,
@@ -1204,12 +1339,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": true,
@@ -1230,22 +1365,21 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
-          "discount_percentage": 41.0,
+          "discount_percentage": 22.0,
           "minimum_price": -1.0,
           "minimum_price_text": null,
           "discounts": [
             {
               "type": "global_offer",
-              "value": 41.0,
-              "price": 129.0,
+              "value": 22.0,
+              "price": 169.0,
               "action": "",
               "is_prime_exclusive": false,
               "apply_to_user": true,
               "global_offer_ids": [
-                5223424,
                 5054634
               ],
               "is_viral_deal": false
@@ -1263,7 +1397,7 @@
           "name": "Paquete Consentidos",
           "description": "2 Hamburguesas con Queso + 2 McPollo + 2 Papas Medianas + 6 McNuggets",
           "image": "e443004e-618e-4df4-a44d-3a367783baf7.png",
-          "index": 14,
+          "index": 15,
           "tablecloth": "",
           "need_image": true,
           "need_topping": true,
@@ -1279,15 +1413,15 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
-          "discount_from_go": true,
+          "discount_from_go": false,
           "store_id": 1306703466,
           "product_id": 6655527,
           "store_name": "",
@@ -1305,26 +1439,13 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
-          "discount_percentage": 44.0,
+          "discount_percentage": 0.0,
           "minimum_price": -1.0,
           "minimum_price_text": null,
-          "discounts": [
-            {
-              "type": "global_offer",
-              "value": 44.0,
-              "price": 299.0,
-              "action": "",
-              "is_prime_exclusive": false,
-              "apply_to_user": true,
-              "global_offer_ids": [
-                5182726
-              ],
-              "is_viral_deal": false
-            }
-          ],
+          "discounts": [],
           "ad_request_id": "",
           "ad_provider_metadata": "",
           "ads_image": "",
@@ -1337,7 +1458,7 @@
           "name": "McNuggets y Papas para Todos",
           "description": "30 McNuggets + 2 papas medianas",
           "image": "a5ed4370-c47c-459e-a87c-30aa579764d0.png",
-          "index": 15,
+          "index": 16,
           "tablecloth": "",
           "need_image": true,
           "need_topping": true,
@@ -1353,12 +1474,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": true,
@@ -1379,7 +1500,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 41.0,
@@ -1411,7 +1532,7 @@
           "name": "LateNight + Postres",
           "description": "2 Hamburguesas con Queso + 2 McPollo + 6 McNuggets + 2 Pay Queso + 2 McFlurry Oreo",
           "image": "44d0dcda-7bf6-47b1-ac21-b4d355e7d6e4.png",
-          "index": 16,
+          "index": 17,
           "tablecloth": "",
           "need_image": true,
           "need_topping": true,
@@ -1427,12 +1548,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -1453,7 +1574,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -1472,7 +1593,7 @@
           "name": "Para compartir con Bebidas",
           "description": "4 Hamburguesas con Queso + 10 McNuggets + 2 Papas Grandes + 2 Refrescos Medianos",
           "image": "e0f26290-a33c-4a7a-80bf-d214b5926472.png",
-          "index": 17,
+          "index": 18,
           "tablecloth": "",
           "need_image": true,
           "need_topping": true,
@@ -1488,12 +1609,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": true,
@@ -1514,7 +1635,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 35.0,
@@ -1546,7 +1667,7 @@
           "name": "Paquete para 4",
           "description": "4 Hamburguesas a elegir + 4 Papas Medianas + 4 Refrescos Medianos",
           "image": "28ab3994-62bf-497d-9e5b-be003ddf0738.png",
-          "index": 18,
+          "index": 19,
           "tablecloth": "",
           "need_image": true,
           "need_topping": true,
@@ -1562,12 +1683,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": true,
@@ -1588,7 +1709,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 22.0,
@@ -1624,377 +1745,11 @@
       "index": 3,
       "products": [
         {
-          "id": "1306703466_8924432",
-          "name": "McTrío mediano Big Mac Tocino",
-          "description": "McTrío mediano Big Mac Tocino",
-          "image": "24038c0b-964c-46e2-8207-11c07da65049.png",
-          "index": 4,
-          "tablecloth": "",
-          "need_image": true,
-          "need_topping": true,
-          "has_toppings": true,
-          "has_recommendations": false,
-          "is_available": false,
-          "corridor_id": 483565,
-          "corridor_name": "McTrios Comida",
-          "corridor_index": 3,
-          "real_price": 185.0,
-          "price": 185.0,
-          "schedules": [
-            {
-              "open_time": "00:00:00",
-              "close_time": "05:45:00",
-              "day": "tue"
-            },
-            {
-              "open_time": "12:00:00",
-              "close_time": "23:59:00",
-              "day": "tue"
-            }
-          ],
-          "discount_from_go": false,
-          "store_id": 1306703466,
-          "product_id": 8924432,
-          "store_name": "",
-          "quantity": 1,
-          "is_open_forever": false,
-          "has_up_sellings": false,
-          "is_liked": false,
-          "topping_list": [],
-          "comment": "",
-          "have_discount": false,
-          "second_layer": "",
-          "quantity_bought": 0,
-          "is_popular": false,
-          "super_store_id": 1930222399,
-          "brand_name": "",
-          "in_schedule": true,
-          "elastic_version": 0,
-          "last_updated": 1775608102931,
-          "show_discount_tag": true,
-          "dietary_restrictions": null,
-          "discount_percentage": 0.0,
-          "minimum_price": -1.0,
-          "minimum_price_text": null,
-          "discounts": [],
-          "ad_request_id": "",
-          "ad_provider_metadata": "",
-          "ads_image": "",
-          "dietary_tags": null,
-          "product_category_id": null,
-          "eta": null
-        },
-        {
-          "id": "1306703466_6851638",
-          "name": "McTrío mediano Big Mac",
-          "description": "McTrío mediano Big Mac",
-          "image": "26991594-9fa9-4fde-820d-6cf11d87fa31.png",
-          "index": 5,
-          "tablecloth": "",
-          "need_image": true,
-          "need_topping": true,
-          "has_toppings": true,
-          "has_recommendations": false,
-          "is_available": false,
-          "corridor_id": 483565,
-          "corridor_name": "McTrios Comida",
-          "corridor_index": 3,
-          "real_price": 165.0,
-          "price": 165.0,
-          "schedules": [
-            {
-              "open_time": "00:00:00",
-              "close_time": "05:45:00",
-              "day": "tue"
-            },
-            {
-              "open_time": "12:00:00",
-              "close_time": "23:59:00",
-              "day": "tue"
-            }
-          ],
-          "discount_from_go": false,
-          "store_id": 1306703466,
-          "product_id": 6851638,
-          "store_name": "",
-          "quantity": 1,
-          "is_open_forever": false,
-          "has_up_sellings": false,
-          "is_liked": false,
-          "topping_list": [],
-          "comment": "",
-          "have_discount": false,
-          "second_layer": "",
-          "quantity_bought": 0,
-          "is_popular": false,
-          "super_store_id": 1930222399,
-          "brand_name": "",
-          "in_schedule": true,
-          "elastic_version": 0,
-          "last_updated": 1775608102931,
-          "show_discount_tag": true,
-          "dietary_restrictions": null,
-          "discount_percentage": 0.0,
-          "minimum_price": -1.0,
-          "minimum_price_text": null,
-          "discounts": [],
-          "ad_request_id": "",
-          "ad_provider_metadata": "",
-          "ads_image": "",
-          "dietary_tags": null,
-          "product_category_id": null,
-          "eta": null
-        },
-        {
-          "id": "1306703466_6851639",
-          "name": "McTrío mediano Cuarto de Libra con Queso",
-          "description": "McTrío mediano Cuarto de Libra con Queso",
-          "image": "6889d391-9bb6-4396-bb12-610bcb98078b.png",
-          "index": 6,
-          "tablecloth": "",
-          "need_image": true,
-          "need_topping": true,
-          "has_toppings": true,
-          "has_recommendations": false,
-          "is_available": false,
-          "corridor_id": 483565,
-          "corridor_name": "McTrios Comida",
-          "corridor_index": 3,
-          "real_price": 175.0,
-          "price": 175.0,
-          "schedules": [
-            {
-              "open_time": "00:00:00",
-              "close_time": "05:45:00",
-              "day": "tue"
-            },
-            {
-              "open_time": "12:00:00",
-              "close_time": "23:59:00",
-              "day": "tue"
-            }
-          ],
-          "discount_from_go": false,
-          "store_id": 1306703466,
-          "product_id": 6851639,
-          "store_name": "",
-          "quantity": 1,
-          "is_open_forever": false,
-          "has_up_sellings": false,
-          "is_liked": false,
-          "topping_list": [],
-          "comment": "",
-          "have_discount": false,
-          "second_layer": "",
-          "quantity_bought": 0,
-          "is_popular": false,
-          "super_store_id": 1930222399,
-          "brand_name": "",
-          "in_schedule": true,
-          "elastic_version": 0,
-          "last_updated": 1775608102931,
-          "show_discount_tag": true,
-          "dietary_restrictions": null,
-          "discount_percentage": 0.0,
-          "minimum_price": -1.0,
-          "minimum_price_text": null,
-          "discounts": [],
-          "ad_request_id": "",
-          "ad_provider_metadata": "",
-          "ads_image": "",
-          "dietary_tags": null,
-          "product_category_id": null,
-          "eta": null
-        },
-        {
-          "id": "1306703466_6851640",
-          "name": "McTrío mediano McNifica",
-          "description": "McTrío mediano McNifica",
-          "image": "d0b63219-b9f3-4eef-8677-f6207503bd46.png",
-          "index": 7,
-          "tablecloth": "",
-          "need_image": true,
-          "need_topping": true,
-          "has_toppings": true,
-          "has_recommendations": false,
-          "is_available": false,
-          "corridor_id": 483565,
-          "corridor_name": "McTrios Comida",
-          "corridor_index": 3,
-          "real_price": 175.0,
-          "price": 175.0,
-          "schedules": [
-            {
-              "open_time": "00:00:00",
-              "close_time": "05:45:00",
-              "day": "tue"
-            },
-            {
-              "open_time": "12:00:00",
-              "close_time": "23:59:00",
-              "day": "tue"
-            }
-          ],
-          "discount_from_go": false,
-          "store_id": 1306703466,
-          "product_id": 6851640,
-          "store_name": "",
-          "quantity": 1,
-          "is_open_forever": false,
-          "has_up_sellings": false,
-          "is_liked": false,
-          "topping_list": [],
-          "comment": "",
-          "have_discount": false,
-          "second_layer": "",
-          "quantity_bought": 0,
-          "is_popular": false,
-          "super_store_id": 1930222399,
-          "brand_name": "",
-          "in_schedule": true,
-          "elastic_version": 0,
-          "last_updated": 1775608102931,
-          "show_discount_tag": true,
-          "dietary_restrictions": null,
-          "discount_percentage": 0.0,
-          "minimum_price": -1.0,
-          "minimum_price_text": null,
-          "discounts": [],
-          "ad_request_id": "",
-          "ad_provider_metadata": "",
-          "ads_image": "",
-          "dietary_tags": null,
-          "product_category_id": null,
-          "eta": null
-        },
-        {
-          "id": "1306703466_6851641",
-          "name": "McTrío mediano McTocino",
-          "description": "McTrío mediano McTocino",
-          "image": "f10efb39-8fa6-41db-8132-ef0856740ac8.png",
-          "index": 8,
-          "tablecloth": "",
-          "need_image": true,
-          "need_topping": true,
-          "has_toppings": true,
-          "has_recommendations": false,
-          "is_available": false,
-          "corridor_id": 483565,
-          "corridor_name": "McTrios Comida",
-          "corridor_index": 3,
-          "real_price": 165.0,
-          "price": 165.0,
-          "schedules": [
-            {
-              "open_time": "00:00:00",
-              "close_time": "05:45:00",
-              "day": "tue"
-            },
-            {
-              "open_time": "12:00:00",
-              "close_time": "23:59:00",
-              "day": "tue"
-            }
-          ],
-          "discount_from_go": false,
-          "store_id": 1306703466,
-          "product_id": 6851641,
-          "store_name": "",
-          "quantity": 1,
-          "is_open_forever": false,
-          "has_up_sellings": false,
-          "is_liked": false,
-          "topping_list": [],
-          "comment": "",
-          "have_discount": false,
-          "second_layer": "",
-          "quantity_bought": 0,
-          "is_popular": false,
-          "super_store_id": 1930222399,
-          "brand_name": "",
-          "in_schedule": true,
-          "elastic_version": 0,
-          "last_updated": 1775608102931,
-          "show_discount_tag": true,
-          "dietary_restrictions": null,
-          "discount_percentage": 0.0,
-          "minimum_price": -1.0,
-          "minimum_price_text": null,
-          "discounts": [],
-          "ad_request_id": "",
-          "ad_provider_metadata": "",
-          "ads_image": "",
-          "dietary_tags": null,
-          "product_category_id": null,
-          "eta": null
-        },
-        {
-          "id": "1306703466_6851642",
-          "name": "McTrio mediano McNuggets 10 pzas",
-          "description": "McTrío mediano McNuggets 10 pzas",
-          "image": "cc7044b9-d66b-4a9f-afd3-f7f600bec2a4.png",
-          "index": 9,
-          "tablecloth": "",
-          "need_image": true,
-          "need_topping": true,
-          "has_toppings": true,
-          "has_recommendations": false,
-          "is_available": false,
-          "corridor_id": 483565,
-          "corridor_name": "McTrios Comida",
-          "corridor_index": 3,
-          "real_price": 175.0,
-          "price": 175.0,
-          "schedules": [
-            {
-              "open_time": "00:00:00",
-              "close_time": "05:45:00",
-              "day": "tue"
-            },
-            {
-              "open_time": "12:00:00",
-              "close_time": "23:59:00",
-              "day": "tue"
-            }
-          ],
-          "discount_from_go": false,
-          "store_id": 1306703466,
-          "product_id": 6851642,
-          "store_name": "",
-          "quantity": 1,
-          "is_open_forever": false,
-          "has_up_sellings": false,
-          "is_liked": false,
-          "topping_list": [],
-          "comment": "",
-          "have_discount": false,
-          "second_layer": "",
-          "quantity_bought": 0,
-          "is_popular": false,
-          "super_store_id": 1930222399,
-          "brand_name": "",
-          "in_schedule": true,
-          "elastic_version": 0,
-          "last_updated": 1775608102931,
-          "show_discount_tag": true,
-          "dietary_restrictions": null,
-          "discount_percentage": 0.0,
-          "minimum_price": -1.0,
-          "minimum_price_text": null,
-          "discounts": [],
-          "ad_request_id": "",
-          "ad_provider_metadata": "",
-          "ads_image": "",
-          "dietary_tags": null,
-          "product_category_id": null,
-          "eta": null
-        },
-        {
           "id": "1306703466_6655539",
           "name": "McTrío mediano McNuggets de Pollo 6 pzas",
           "description": "McTrío de 6 McNuggets, tiernos y jugosos trocitos 100% de pechuga de pollo con una capa de empanizado doradito. Incluye papas y refresco de 21oz.",
           "image": "d1426f38-f840-48c3-bcb4-d862f932ff67.png",
-          "index": 10,
+          "index": 6,
           "tablecloth": "",
           "need_image": true,
           "need_topping": true,
@@ -2010,12 +1765,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -2036,7 +1791,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -2055,7 +1810,7 @@
           "name": "McTrío mediano McCrispy Cajún",
           "description": "McTrío Mediano McCrispy Cajún",
           "image": "43ebbf61-f6d4-4f12-9477-94d59b988f14.png",
-          "index": 11,
+          "index": 7,
           "tablecloth": "",
           "need_image": true,
           "need_topping": true,
@@ -2071,12 +1826,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -2097,7 +1852,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -2116,7 +1871,7 @@
           "name": "McTrío mediano Grand BBQ Doble",
           "description": "McTrío Mediano Grand BBQ Bacon Doble",
           "image": "d4bf5e1d-9c1a-4fe5-b48c-6767e435bcb5.png",
-          "index": 12,
+          "index": 8,
           "tablecloth": "",
           "need_image": true,
           "need_topping": true,
@@ -2132,12 +1887,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -2158,7 +1913,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -2177,7 +1932,7 @@
           "name": "McTrío Grands BBQ Triple grande",
           "description": "McTrio Mediano Grand Tasty BBQ Doble",
           "image": "707501b4-cea6-4e2b-a279-1c74a3fbe2f9.png",
-          "index": 13,
+          "index": 9,
           "tablecloth": "",
           "need_image": true,
           "need_topping": true,
@@ -2193,12 +1948,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -2219,7 +1974,129 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
+          "show_discount_tag": true,
+          "dietary_restrictions": null,
+          "discount_percentage": 0.0,
+          "minimum_price": -1.0,
+          "minimum_price_text": null,
+          "discounts": [],
+          "ad_request_id": "",
+          "ad_provider_metadata": "",
+          "ads_image": "",
+          "dietary_tags": null,
+          "product_category_id": null,
+          "eta": null
+        },
+        {
+          "id": "1306703466_6655575",
+          "name": "McTrio mediano McNuggets 10 pzas",
+          "description": "McTrío de 10 McNuggets, tiernos y jugosos trocitos 100% de pechuga de pollo con una capa de empanizado doradito. Incluye papas y refresco de 21oz.",
+          "image": "eab581c8-9c30-4b3a-9bfe-864e69a50d2b.png",
+          "index": 10,
+          "tablecloth": "",
+          "need_image": true,
+          "need_topping": true,
+          "has_toppings": true,
+          "has_recommendations": false,
+          "is_available": false,
+          "corridor_id": 483565,
+          "corridor_name": "McTrios Comida",
+          "corridor_index": 3,
+          "real_price": 175.0,
+          "price": 175.0,
+          "schedules": [
+            {
+              "open_time": "00:00:00",
+              "close_time": "05:45:00",
+              "day": "mon"
+            },
+            {
+              "open_time": "12:00:00",
+              "close_time": "23:59:00",
+              "day": "mon"
+            }
+          ],
+          "discount_from_go": false,
+          "store_id": 1306703466,
+          "product_id": 6655575,
+          "store_name": "",
+          "quantity": 1,
+          "is_open_forever": false,
+          "has_up_sellings": false,
+          "is_liked": false,
+          "topping_list": [],
+          "comment": "",
+          "have_discount": false,
+          "second_layer": "",
+          "quantity_bought": 0,
+          "is_popular": false,
+          "super_store_id": 1930222399,
+          "brand_name": "",
+          "in_schedule": true,
+          "elastic_version": 0,
+          "last_updated": 1778529735763,
+          "show_discount_tag": true,
+          "dietary_restrictions": null,
+          "discount_percentage": 0.0,
+          "minimum_price": -1.0,
+          "minimum_price_text": null,
+          "discounts": [],
+          "ad_request_id": "",
+          "ad_provider_metadata": "",
+          "ads_image": "",
+          "dietary_tags": null,
+          "product_category_id": null,
+          "eta": null
+        },
+        {
+          "id": "1306703466_6655518",
+          "name": "McTrío mediano McNifica",
+          "description": "Hamburguesa con 1 carne de res, queso tipo americano, lechuga, cebolla, dos rebanadas de jitomate, mayonesa, cátsup, mostaza.",
+          "image": "bf2dd997-0053-423d-a972-14f8b9ea92fc.png",
+          "index": 11,
+          "tablecloth": "",
+          "need_image": true,
+          "need_topping": true,
+          "has_toppings": true,
+          "has_recommendations": false,
+          "is_available": false,
+          "corridor_id": 483565,
+          "corridor_name": "McTrios Comida",
+          "corridor_index": 3,
+          "real_price": 175.0,
+          "price": 175.0,
+          "schedules": [
+            {
+              "open_time": "00:00:00",
+              "close_time": "05:45:00",
+              "day": "mon"
+            },
+            {
+              "open_time": "12:00:00",
+              "close_time": "23:59:00",
+              "day": "mon"
+            }
+          ],
+          "discount_from_go": false,
+          "store_id": 1306703466,
+          "product_id": 6655518,
+          "store_name": "",
+          "quantity": 1,
+          "is_open_forever": false,
+          "has_up_sellings": false,
+          "is_liked": false,
+          "topping_list": [],
+          "comment": "",
+          "have_discount": false,
+          "second_layer": "",
+          "quantity_bought": 0,
+          "is_popular": false,
+          "super_store_id": 1930222399,
+          "brand_name": "",
+          "in_schedule": true,
+          "elastic_version": 0,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -2238,7 +2115,7 @@
           "name": "McTrío mediano CBO Doble",
           "description": "Hamburguesa con 2 Carnes Signature, queso cheddar, tocino y cebolla. Incluye papas y refresco de 21oz.",
           "image": "e8e28a53-e81f-4d74-887c-367d17e5c5ce.png",
-          "index": 16,
+          "index": 12,
           "tablecloth": "",
           "need_image": true,
           "need_topping": true,
@@ -2254,12 +2131,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -2280,7 +2157,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -2299,7 +2176,7 @@
           "name": "McTrío mediano Club House Doble",
           "description": "Hamburguesa con 2 Carnes Signature, pan tipo brioche, lechuga, jitomate, queso cheddar, tocino y salsa especial. Incluye papas y refresco de 21oz.",
           "image": "de60e80d-2c2f-4953-856c-83eed252d18e.png",
-          "index": 17,
+          "index": 13,
           "tablecloth": "",
           "need_image": true,
           "need_topping": true,
@@ -2315,12 +2192,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -2341,7 +2218,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -2360,7 +2237,7 @@
           "name": "McTrío mediano Grand Bacon Deluxe Doble",
           "description": "Hamburguesa Grand Bacon Deluxe Doble + Papas Medianas + Refresco Mediano",
           "image": "979908b3-b0da-4dbc-b56b-76f1281384e5.png",
-          "index": 18,
+          "index": 14,
           "tablecloth": "",
           "need_image": true,
           "need_topping": true,
@@ -2376,12 +2253,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -2402,7 +2279,129 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
+          "show_discount_tag": true,
+          "dietary_restrictions": null,
+          "discount_percentage": 0.0,
+          "minimum_price": -1.0,
+          "minimum_price_text": null,
+          "discounts": [],
+          "ad_request_id": "",
+          "ad_provider_metadata": "",
+          "ads_image": "",
+          "dietary_tags": null,
+          "product_category_id": null,
+          "eta": null
+        },
+        {
+          "id": "1306703466_6655529",
+          "name": "McTrío mediano Big Mac",
+          "description": "Hamburguesa con 2 carnes de res, con salsa especial de Big Mac y queso derretido. Incluye papas y refresco de 21oz.",
+          "image": "e5253067-9f89-4770-acfd-6621b59229de.png",
+          "index": 15,
+          "tablecloth": "",
+          "need_image": true,
+          "need_topping": true,
+          "has_toppings": true,
+          "has_recommendations": false,
+          "is_available": false,
+          "corridor_id": 483565,
+          "corridor_name": "McTrios Comida",
+          "corridor_index": 3,
+          "real_price": 165.0,
+          "price": 165.0,
+          "schedules": [
+            {
+              "open_time": "00:00:00",
+              "close_time": "05:45:00",
+              "day": "mon"
+            },
+            {
+              "open_time": "12:00:00",
+              "close_time": "23:59:00",
+              "day": "mon"
+            }
+          ],
+          "discount_from_go": false,
+          "store_id": 1306703466,
+          "product_id": 6655529,
+          "store_name": "",
+          "quantity": 1,
+          "is_open_forever": false,
+          "has_up_sellings": false,
+          "is_liked": false,
+          "topping_list": [],
+          "comment": "",
+          "have_discount": false,
+          "second_layer": "",
+          "quantity_bought": 0,
+          "is_popular": false,
+          "super_store_id": 1930222399,
+          "brand_name": "",
+          "in_schedule": true,
+          "elastic_version": 0,
+          "last_updated": 1778529735763,
+          "show_discount_tag": true,
+          "dietary_restrictions": null,
+          "discount_percentage": 0.0,
+          "minimum_price": -1.0,
+          "minimum_price_text": null,
+          "discounts": [],
+          "ad_request_id": "",
+          "ad_provider_metadata": "",
+          "ads_image": "",
+          "dietary_tags": null,
+          "product_category_id": null,
+          "eta": null
+        },
+        {
+          "id": "1306703466_6655553",
+          "name": "McTrío mediano Cuarto de Libra con Queso",
+          "description": "Hamburguesa con carne de res, sazonada con una pizca de sal y pimienta con queso americano, cebolla, pepinillos, cátsup y mostaza.",
+          "image": "4f3e552b-021e-41ba-9e24-fbe6c3397df8.png",
+          "index": 16,
+          "tablecloth": "",
+          "need_image": true,
+          "need_topping": true,
+          "has_toppings": true,
+          "has_recommendations": false,
+          "is_available": false,
+          "corridor_id": 483565,
+          "corridor_name": "McTrios Comida",
+          "corridor_index": 3,
+          "real_price": 175.0,
+          "price": 175.0,
+          "schedules": [
+            {
+              "open_time": "00:00:00",
+              "close_time": "05:45:00",
+              "day": "mon"
+            },
+            {
+              "open_time": "12:00:00",
+              "close_time": "23:59:00",
+              "day": "mon"
+            }
+          ],
+          "discount_from_go": false,
+          "store_id": 1306703466,
+          "product_id": 6655553,
+          "store_name": "",
+          "quantity": 1,
+          "is_open_forever": false,
+          "has_up_sellings": false,
+          "is_liked": false,
+          "topping_list": [],
+          "comment": "",
+          "have_discount": false,
+          "second_layer": "",
+          "quantity_bought": 0,
+          "is_popular": false,
+          "super_store_id": 1930222399,
+          "brand_name": "",
+          "in_schedule": true,
+          "elastic_version": 0,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -2421,7 +2420,7 @@
           "name": "McTrío mediano Cuarto de Libra Doble con Queso",
           "description": "Hamburguesa con 2 carnes de res, queso americano, cebolla, pepinillos, cátsup y mostaza. Incluye papas y refresco de 21oz.",
           "image": "d6391278-5d31-42c1-aa91-738186d028c8.png",
-          "index": 21,
+          "index": 17,
           "tablecloth": "",
           "need_image": true,
           "need_topping": true,
@@ -2437,12 +2436,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -2463,7 +2462,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -2482,7 +2481,7 @@
           "name": "McTrío mediano 2 Hamburguesas con Queso",
           "description": "2 Hamburguesas con 1 carne 100% de res, preparadas con cebolla, queso tipo americano, pepinillos, catsup y mostaza. Incluye papas medianas y refresco de 21 Oz.",
           "image": "41db42f4-8348-495c-99a3-052fa62cf4b1.png",
-          "index": 22,
+          "index": 18,
           "tablecloth": "",
           "need_image": true,
           "need_topping": true,
@@ -2498,12 +2497,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": true,
@@ -2524,21 +2523,22 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
-          "discount_percentage": 30.0,
+          "discount_percentage": 55.0,
           "minimum_price": -1.0,
           "minimum_price_text": null,
           "discounts": [
             {
               "type": "global_offer",
-              "value": 30.0,
-              "price": 109.0,
+              "value": 55.0,
+              "price": 69.0,
               "action": "",
               "is_prime_exclusive": false,
               "apply_to_user": true,
               "global_offer_ids": [
+                5585352,
                 5054631
               ],
               "is_viral_deal": false
@@ -2556,7 +2556,7 @@
           "name": "McTrío mediano McCrispy Spicy",
           "description": "McTrio Mediano McCrispy Spicy",
           "image": "01333247-1168-4553-8e7f-58491181032a.png",
-          "index": 23,
+          "index": 19,
           "tablecloth": "",
           "need_image": true,
           "need_topping": true,
@@ -2572,12 +2572,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -2598,7 +2598,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -2617,7 +2617,7 @@
           "name": "McTrío mediano McCrispy Deluxe",
           "description": "McTrío McCrispy Deluxe",
           "image": "287e2fd3-f997-4bec-a3a7-def153d3f593.png",
-          "index": 27,
+          "index": 23,
           "tablecloth": "",
           "need_image": true,
           "need_topping": true,
@@ -2633,12 +2633,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -2659,7 +2659,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -2678,7 +2678,7 @@
           "name": "McTrío BBQ Crispy Onion mediano 1 carne",
           "description": "Hamburguesa con 1 Carne Signature, salsa BBQ, cebolla caramelizada, queso cheddar blanco, csrispy onion, tocino y pan brioche. Incluye papas y refresco de 21oz",
           "image": "428f1545-4fab-473b-9cbb-4d32be0a9ac6.png",
-          "index": 28,
+          "index": 24,
           "tablecloth": "",
           "need_image": true,
           "need_topping": true,
@@ -2694,12 +2694,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -2720,7 +2720,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -2739,7 +2739,7 @@
           "name": "McTrío mediano McNuggets 20 pzas",
           "description": "McTrío de 20 McNuggets, tiernos y jugosos trocitos 100% de pechuga de pollo con una capa de empanizado doradito. Incluye papas y refresco de 21oz.",
           "image": "667bd1ac-9c48-4588-8d6f-29f4ccb4c2a3.png",
-          "index": 29,
+          "index": 25,
           "tablecloth": "",
           "need_image": true,
           "need_topping": true,
@@ -2755,12 +2755,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -2781,7 +2781,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -2800,7 +2800,7 @@
           "name": "McTrío mediano BBQ Crispy Onion Doble",
           "description": "Hamburguesa con 2 Carnes Signature, salsa BBQ, cebolla caramelizada, queso cheddar blanco, csrispy onion, tocino y pan brioche.",
           "image": "9f6562ee-5360-4808-9f92-342a6c5b5257.png",
-          "index": 30,
+          "index": 26,
           "tablecloth": "",
           "need_image": true,
           "need_topping": true,
@@ -2816,12 +2816,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -2842,7 +2842,68 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
+          "show_discount_tag": true,
+          "dietary_restrictions": null,
+          "discount_percentage": 0.0,
+          "minimum_price": -1.0,
+          "minimum_price_text": null,
+          "discounts": [],
+          "ad_request_id": "",
+          "ad_provider_metadata": "",
+          "ads_image": "",
+          "dietary_tags": null,
+          "product_category_id": null,
+          "eta": null
+        },
+        {
+          "id": "1306703466_6655569",
+          "name": "McTrío mediano McTocino",
+          "description": "Disfruta de una Hamburguesa McTocino, Papas Medianas y Refresco Mediano.",
+          "image": "70738c9b-11dd-421c-914e-615d24fa895b.png",
+          "index": 27,
+          "tablecloth": "",
+          "need_image": true,
+          "need_topping": true,
+          "has_toppings": true,
+          "has_recommendations": false,
+          "is_available": false,
+          "corridor_id": 483565,
+          "corridor_name": "McTrios Comida",
+          "corridor_index": 3,
+          "real_price": 165.0,
+          "price": 165.0,
+          "schedules": [
+            {
+              "open_time": "00:00:00",
+              "close_time": "05:45:00",
+              "day": "mon"
+            },
+            {
+              "open_time": "12:00:00",
+              "close_time": "23:59:00",
+              "day": "mon"
+            }
+          ],
+          "discount_from_go": false,
+          "store_id": 1306703466,
+          "product_id": 6655569,
+          "store_name": "",
+          "quantity": 1,
+          "is_open_forever": false,
+          "has_up_sellings": false,
+          "is_liked": false,
+          "topping_list": [],
+          "comment": "",
+          "have_discount": false,
+          "second_layer": "",
+          "quantity_bought": 0,
+          "is_popular": false,
+          "super_store_id": 1930222399,
+          "brand_name": "",
+          "in_schedule": true,
+          "elastic_version": 0,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -2868,7 +2929,7 @@
           "id": "1306703466_6533864",
           "name": "Cajita Feliz Hamburguesa Lechuga Tomate",
           "description": "Pide tu Cajita Feliz de Hamburguesa con Lechuga y Tomate; Incluye papas kids y Yoplait.",
-          "image": "4664fe1b-361a-4a6a-a400-2e2f17580322.png",
+          "image": "02d65850-4250-464f-81a3-eb962a61cc00.png",
           "index": 1,
           "tablecloth": "",
           "need_image": true,
@@ -2885,12 +2946,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -2911,7 +2972,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -2929,7 +2990,7 @@
           "id": "1306703466_6655570",
           "name": "Cajita Feliz Hamburguesa sin Queso",
           "description": "Pide tu Cajita Feliz de Hamburguesa; Incluye papas kids y Yoplait.",
-          "image": "15909edc-f145-4b57-992a-5ea78c9e1959.png",
+          "image": "4fe1289e-3189-4f5f-9750-db03d9136a92.png",
           "index": 2,
           "tablecloth": "",
           "need_image": true,
@@ -2946,12 +3007,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -2972,7 +3033,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -2990,7 +3051,7 @@
           "id": "1306703466_6655511",
           "name": "Cajita Feliz McNuggets de pollo 4 pzas",
           "description": "Pide tu Cajita Feliz de McNuggets 4 piezas; Incluye papas kids y Yoplait.",
-          "image": "c1c416b9-6396-42bc-905c-26a503828679.png",
+          "image": "4191c2b0-7d3c-4f12-a4de-f144893acf66.png",
           "index": 3,
           "tablecloth": "",
           "need_image": true,
@@ -3007,12 +3068,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -3033,7 +3094,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -3062,18 +3123,18 @@
           "corridor_id": 483566,
           "corridor_name": "Cajita Feliz",
           "corridor_index": 4,
-          "real_price": 320.0,
-          "price": 320.0,
+          "real_price": 278.0,
+          "price": 278.0,
           "schedules": [
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -3094,7 +3155,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -3112,7 +3173,7 @@
           "id": "1306703466_9411449",
           "name": "Cajita Feliz Hamburguesa con Queso",
           "description": "Pide tu Cajita Feliz de Hamburguesa con Queso; Incluye papas kids y Yoplait",
-          "image": "a2747740-1118-4df2-91bc-964acd72de2c.png",
+          "image": "058205ea-39df-481f-8039-a2cdeaf49742.png",
           "index": 5,
           "tablecloth": "",
           "need_image": true,
@@ -3129,12 +3190,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -3155,7 +3216,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -3178,10 +3239,10 @@
       "index": 5,
       "products": [
         {
-          "id": "1306703466_6655534",
-          "name": "McTrío mediano Hamburguesa Queso Spicy",
-          "description": "McTrío mediano Hamburguesa Queso Spicy",
-          "image": "73be17e9-9a34-4b1f-bea6-f92d26bb8e49.png",
+          "id": "1306703466_12605559",
+          "name": "McTrío mediano Hamburguesa BBQ Cheddar",
+          "description": "McTrío Mediano BBQ Cheddar",
+          "image": "aa989545-6039-4408-a30e-a1aa04a8b38a.png",
           "index": 1,
           "tablecloth": "",
           "need_image": true,
@@ -3198,17 +3259,17 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
-          "discount_from_go": false,
+          "discount_from_go": true,
           "store_id": 1306703466,
-          "product_id": 6655534,
+          "product_id": 12605559,
           "store_name": "",
           "quantity": 1,
           "is_open_forever": false,
@@ -3224,13 +3285,26 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
-          "discount_percentage": 0.0,
+          "discount_percentage": 5.0,
           "minimum_price": -1.0,
           "minimum_price_text": null,
-          "discounts": [],
+          "discounts": [
+            {
+              "type": "global_offer",
+              "value": 5.0,
+              "price": 109.0,
+              "action": "",
+              "is_prime_exclusive": false,
+              "apply_to_user": true,
+              "global_offer_ids": [
+                5511173
+              ],
+              "is_viral_deal": false
+            }
+          ],
           "ad_request_id": "",
           "ad_provider_metadata": "",
           "ads_image": "",
@@ -3259,12 +3333,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": true,
@@ -3285,7 +3359,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 14.0,
@@ -3321,10 +3395,10 @@
       "index": 6,
       "products": [
         {
-          "id": "1306703466_8924431",
-          "name": "Big Mac Tocino",
-          "description": "Big Mac Tocino",
-          "image": "9029b687-868f-4787-9711-228dbe4af731.png",
+          "id": "1306703466_11396078",
+          "name": "McTocino",
+          "description": "Hamburguesa con 2 carnes de res, catsup, mostaza, cebolla, tocino y queso derretido.",
+          "image": "b4740cb0-ce02-4b8f-ba16-6e02da3bb1a0.png",
           "index": 1,
           "tablecloth": "",
           "need_image": true,
@@ -3335,23 +3409,23 @@
           "corridor_id": 483569,
           "corridor_name": "A La Carta Comida",
           "corridor_index": 6,
-          "real_price": 159.0,
-          "price": 159.0,
+          "real_price": 139.0,
+          "price": 139.0,
           "schedules": [
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
           "store_id": 1306703466,
-          "product_id": 8924431,
+          "product_id": 11396078,
           "store_name": "",
           "quantity": 1,
           "is_open_forever": false,
@@ -3367,7 +3441,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -3402,12 +3476,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -3428,7 +3502,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -3446,7 +3520,7 @@
           "id": "1306703466_6655517",
           "name": "McNuggets de Pollo 4 pzas",
           "description": "4 Nuggets de pechuga de pollo con una capa de empanizado doradito.",
-          "image": "cf56920e-02dc-4915-9318-232b9a56f341.png",
+          "image": "65c24cfc-5074-40bd-b0e9-7c45404a7f50.png",
           "index": 3,
           "tablecloth": "",
           "need_image": true,
@@ -3463,12 +3537,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -3489,7 +3563,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -3524,12 +3598,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -3550,7 +3624,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -3585,12 +3659,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -3611,7 +3685,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -3646,12 +3720,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -3672,7 +3746,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -3707,12 +3781,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -3733,7 +3807,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -3768,12 +3842,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -3794,7 +3868,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -3829,12 +3903,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -3855,7 +3929,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -3890,12 +3964,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -3916,7 +3990,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -3951,12 +4025,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -3977,7 +4051,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -4012,12 +4086,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -4038,7 +4112,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -4061,10 +4135,71 @@
       "index": 7,
       "products": [
         {
+          "id": "1306703466_11396077",
+          "name": "McFlurry Emperador",
+          "description": "McFlurry Emperador",
+          "image": "d72041f4-6021-4349-b857-39edb4cc8561.png",
+          "index": 1,
+          "tablecloth": "",
+          "need_image": true,
+          "need_topping": true,
+          "has_toppings": true,
+          "has_recommendations": false,
+          "is_available": false,
+          "corridor_id": 483570,
+          "corridor_name": "Postres",
+          "corridor_index": 7,
+          "real_price": 65.0,
+          "price": 65.0,
+          "schedules": [
+            {
+              "open_time": "00:00:00",
+              "close_time": "05:45:00",
+              "day": "mon"
+            },
+            {
+              "open_time": "12:00:00",
+              "close_time": "23:59:00",
+              "day": "mon"
+            }
+          ],
+          "discount_from_go": false,
+          "store_id": 1306703466,
+          "product_id": 11396077,
+          "store_name": "",
+          "quantity": 1,
+          "is_open_forever": false,
+          "has_up_sellings": false,
+          "is_liked": false,
+          "topping_list": [],
+          "comment": "",
+          "have_discount": false,
+          "second_layer": "",
+          "quantity_bought": 0,
+          "is_popular": false,
+          "super_store_id": 1930222399,
+          "brand_name": "",
+          "in_schedule": true,
+          "elastic_version": 0,
+          "last_updated": 1778529735763,
+          "show_discount_tag": true,
+          "dietary_restrictions": null,
+          "discount_percentage": 0.0,
+          "minimum_price": -1.0,
+          "minimum_price_text": null,
+          "discounts": [],
+          "ad_request_id": "",
+          "ad_provider_metadata": "",
+          "ads_image": "",
+          "dietary_tags": null,
+          "product_category_id": null,
+          "eta": null
+        },
+        {
           "id": "1306703466_7833132",
           "name": "McFlurry Chips Ahoy!",
           "description": "Helado preparado con 100% leche de vaca acompañado de trozos de galleta Chips Ahoy! y salsa de chocolate",
-          "image": "1a22b61e-60b4-4305-8b3e-71107825ac7f.png",
+          "image": "bdf364d0-a611-4e20-8938-3f64508e71b5.png",
           "index": 2,
           "tablecloth": "",
           "need_image": true,
@@ -4081,12 +4216,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -4107,7 +4242,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -4142,12 +4277,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -4168,7 +4303,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -4183,85 +4318,11 @@
           "eta": null
         },
         {
-          "id": "1306703466_10867985",
-          "name": "Paquete Pits",
-          "description": "McFlurry Oreo + Papas Grandes",
-          "image": "5d227fef-d469-4e17-a60c-24c0c7b3c11a.png",
-          "index": 4,
-          "tablecloth": "",
-          "need_image": true,
-          "need_topping": true,
-          "has_toppings": true,
-          "has_recommendations": false,
-          "is_available": false,
-          "corridor_id": 483570,
-          "corridor_name": "Postres",
-          "corridor_index": 7,
-          "real_price": 134.0,
-          "price": 134.0,
-          "schedules": [
-            {
-              "open_time": "00:00:00",
-              "close_time": "05:45:00",
-              "day": "tue"
-            },
-            {
-              "open_time": "12:00:00",
-              "close_time": "23:59:00",
-              "day": "tue"
-            }
-          ],
-          "discount_from_go": true,
-          "store_id": 1306703466,
-          "product_id": 10867985,
-          "store_name": "",
-          "quantity": 1,
-          "is_open_forever": false,
-          "has_up_sellings": false,
-          "is_liked": false,
-          "topping_list": [],
-          "comment": "",
-          "have_discount": false,
-          "second_layer": "",
-          "quantity_bought": 0,
-          "is_popular": false,
-          "super_store_id": 1930222399,
-          "brand_name": "",
-          "in_schedule": true,
-          "elastic_version": 0,
-          "last_updated": 1775608102931,
-          "show_discount_tag": true,
-          "dietary_restrictions": null,
-          "discount_percentage": 26.0,
-          "minimum_price": -1.0,
-          "minimum_price_text": null,
-          "discounts": [
-            {
-              "type": "global_offer",
-              "value": 26.0,
-              "price": 99.0,
-              "action": "",
-              "is_prime_exclusive": false,
-              "apply_to_user": true,
-              "global_offer_ids": [
-                5221515
-              ],
-              "is_viral_deal": false
-            }
-          ],
-          "ad_request_id": "",
-          "ad_provider_metadata": "",
-          "ads_image": "",
-          "dietary_tags": null,
-          "product_category_id": null,
-          "eta": null
-        },
-        {
           "id": "1306703466_6655514",
           "name": "McFlurry M&M's",
           "description": "Helado preparado con 100% leche de vaca acompañado de trozos de M&M's y jarabe de chocolate.",
           "image": "3f18af32-dcac-47e6-b76f-d1a1738966bd.png",
-          "index": 5,
+          "index": 4,
           "tablecloth": "",
           "need_image": true,
           "need_topping": true,
@@ -4277,12 +4338,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -4303,7 +4364,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -4321,8 +4382,8 @@
           "id": "1306703466_6655525",
           "name": "Pay de queso",
           "description": "Pay de queso crujiente y dorado con queso crema derretido por dentro.",
-          "image": "cb2b8ae4-d3f1-4e58-a358-d11f59f028d1.png",
-          "index": 6,
+          "image": "46e95043-883d-4bd8-92e5-16d267bb046c.png",
+          "index": 5,
           "tablecloth": "",
           "need_image": true,
           "need_topping": false,
@@ -4338,12 +4399,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -4364,7 +4425,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -4383,7 +4444,7 @@
           "name": "Pay de manzana",
           "description": "Pay de manzana crujiente y dorado con trozos de manzana y una pizca de canela por dentro.",
           "image": "432dc4c0-eb42-42b6-b8d0-8baa1952b319.png",
-          "index": 7,
+          "index": 6,
           "tablecloth": "",
           "need_image": true,
           "need_topping": false,
@@ -4399,12 +4460,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -4425,7 +4486,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -4443,8 +4504,8 @@
           "id": "1306703466_6655556",
           "name": "Sundae chocolate",
           "description": "Helado preparado con 100% leche de vaca acompañado de chocolate derretido.",
-          "image": "81940876-a0d0-4f51-aa6c-788d25ce1c06.png",
-          "index": 8,
+          "image": "fa4f2383-1fe2-4329-8590-76baee28c0b3.png",
+          "index": 7,
           "tablecloth": "",
           "need_image": true,
           "need_topping": true,
@@ -4460,12 +4521,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -4486,7 +4547,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -4504,8 +4565,8 @@
           "id": "1306703466_6655557",
           "name": "Sundae fresa",
           "description": "Helado preparado con 100% leche de vaca acompañado de jarabe de fresa.",
-          "image": "f360770e-2531-48eb-8ecc-ad236b09dbf3.png",
-          "index": 9,
+          "image": "a5fbc0f7-fa9f-4886-ac6e-8a3f0ec93841.png",
+          "index": 8,
           "tablecloth": "",
           "need_image": true,
           "need_topping": true,
@@ -4521,12 +4582,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -4547,7 +4608,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -4573,7 +4634,7 @@
           "id": "1306703466_6655535",
           "name": "Café Americano mediano",
           "description": "Disfruta de un café recien preparado.",
-          "image": "553967a1-9a36-4a94-bcc4-cc684b29a21e.png",
+          "image": "e7a7981c-f7bc-4a9c-af73-2dd83b6eb4c7.png",
           "index": 1,
           "tablecloth": "",
           "need_image": true,
@@ -4590,12 +4651,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -4616,7 +4677,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -4651,12 +4712,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -4677,7 +4738,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -4712,12 +4773,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -4738,7 +4799,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -4773,12 +4834,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -4799,7 +4860,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -4834,12 +4895,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -4860,7 +4921,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -4895,12 +4956,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -4921,7 +4982,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -4956,12 +5017,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -4982,7 +5043,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -5017,12 +5078,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -5043,7 +5104,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -5078,12 +5139,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -5104,7 +5165,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -5139,12 +5200,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -5165,7 +5226,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -5200,12 +5261,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -5226,7 +5287,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -5261,12 +5322,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -5287,7 +5348,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -5322,12 +5383,12 @@
             {
               "open_time": "00:00:00",
               "close_time": "05:45:00",
-              "day": "tue"
+              "day": "mon"
             },
             {
               "open_time": "12:00:00",
               "close_time": "23:59:00",
-              "day": "tue"
+              "day": "mon"
             }
           ],
           "discount_from_go": false,
@@ -5348,7 +5409,7 @@
           "brand_name": "",
           "in_schedule": true,
           "elastic_version": 0,
-          "last_updated": 1775608102931,
+          "last_updated": 1778529735763,
           "show_discount_tag": true,
           "dietary_restrictions": null,
           "discount_percentage": 0.0,
@@ -5475,24 +5536,34 @@
     "reviews_info": {
       "options_info": [
         {
-          "text": "Justo lo que pedí",
-          "value": 14,
-          "image": "https://img.rappi.com/support/ratings/bubbles/restGoodPrice.png"
-        },
-        {
           "text": "Faltaron algunos items",
-          "value": 14,
+          "value": 15,
           "image": "https://img.rappi.com/support/ratings/bubbles/restBadPrice.png"
         },
         {
+          "text": "Justo lo que pedí",
+          "value": 13,
+          "image": "https://img.rappi.com/support/ratings/bubbles/restGoodPrice.png"
+        },
+        {
           "text": "No fue lo que pedí",
-          "value": 11,
+          "value": 9,
           "image": "https://img.rappi.com/support/ratings/bubbles/rtBadPresentation.png"
         },
         {
           "text": "Calidad de la comida",
-          "value": 10,
+          "value": 8,
           "image": "https://img.rappi.com/support/ratings/bubbles/restGoodFood.png"
+        },
+        {
+          "text": "Tal como lo pedí",
+          "value": 7,
+          "image": "https://img.rappi.com/support/ratings/bubbles/restBadPackage.png"
+        },
+        {
+          "text": "Buena presentación",
+          "value": 7,
+          "image": "https://img.rappi.com/support/ratings/bubbles/restGoodPackage.png"
         },
         {
           "text": "Pésima calidad",
@@ -5500,43 +5571,38 @@
           "image": "https://img.rappi.com/support/ratings/bubbles/restBadFood.png"
         },
         {
-          "text": "Falto un item",
-          "value": 6,
-          "image": "https://img.rappi.com/support/ratings/bubbles/restBadPrice.png"
-        },
-        {
-          "text": "Tal como lo pedí",
-          "value": 6,
-          "image": "https://img.rappi.com/support/ratings/bubbles/restBadPackage.png"
-        },
-        {
-          "text": "Buena presentación",
-          "value": 6,
-          "image": "https://img.rappi.com/support/ratings/bubbles/restGoodPackage.png"
-        },
-        {
           "text": "Mala presentación",
           "value": 5,
           "image": "https://img.rappi.com/support/ratings/bubbles/rtBadPresentation.png"
         },
         {
-          "text": "No fue lo que pedí",
-          "value": 3,
-          "image": "https://img.rappi.com/support/ratings/bubbles/rtBadPresentation.png"
-        },
-        {
-          "text": "No fue lo que pedí",
-          "value": 3,
-          "image": "https://img.rappi.com/support/ratings/bubbles/rtBadPresentation.png"
-        },
-        {
           "text": "Faltó un item",
-          "value": 3,
+          "value": 4,
           "image": "https://img.rappi.com/support/ratings/bubbles/restBadPrice.png"
         },
         {
+          "text": "Falto un item",
+          "value": 4,
+          "image": "https://img.rappi.com/support/ratings/bubbles/restBadPrice.png"
+        },
+        {
+          "text": "Mejorar la presentación",
+          "value": 4,
+          "image": "https://img.rappi.com/support/ratings/bubbles/restGoodPackage.png"
+        },
+        {
+          "text": "No fue lo que pedí",
+          "value": 3,
+          "image": "https://img.rappi.com/support/ratings/bubbles/rtBadPresentation.png"
+        },
+        {
+          "text": "Incluir todos los items",
+          "value": 3,
+          "image": "https://img.rappi.com/support/ratings/bubbles/restBadPackage.png"
+        },
+        {
           "text": "Otras razones",
-          "value": 12,
+          "value": 11,
           "image": "https://rappi-uploads-02-prod.s3.us-west-2.amazonaws.com/stores-detail-icon/placeholder-store-rest.png"
         }
       ],
@@ -5698,15 +5764,14 @@
     "eta": false,
     "delivery": false,
     "no_cash": false,
-    "cooking_time": 22,
+    "cooking_time": 0,
     "distance": 0
   },
-  "store_detail_request_id": "00000000000000009ff1b6f9d926f0a5",
+  "store_detail_request_id": "00000000000000008f3d8e9a02b16bd5",
   "top_performer": false,
   "is_liked": false,
   "availability_status": "TYPE_ZERO",
   "expanded_range_modal": null,
-  "user_challenge": null,
   "comments": null,
   "source_ads_info": null,
   "cardComponents": null,
@@ -5734,7 +5799,7 @@
   "distance_class": null,
   "open_soon": null,
   "schedule_time": null,
-  "full_background": "https://images.rappi.com.mx/restaurants_background/mario-1774790764693.jpg",
+  "full_background": "https://images.rappi.com.mx/restaurants_background/mundial-1778522721450.jpg",
   "price_parity_onw": 0.0,
   "price_parity_cmp": 0.0,
   "global_offers": {
@@ -5769,12 +5834,12 @@
           "title": "Envío gratis en tu pedido",
           "description": "Disfruta de este descuento exclusivo en tu pedido pagando con métodos de pago seleccionados.",
           "image": "https://rappi-images-upload-co.s3.amazonaws.com/home-ab-objects/icon-filled_promotion-1706635945.png",
-          "ends_at": "2026-05-08 23:59:59",
+          "ends_at": "2027-05-09 00:04:00",
           "applicable_stores": "Aplica en Mc Donald's  - Parque Hundido",
           "terms_and_conditions": "https://promos.rappi.com/mexico/eg30-ago2025",
           "conditions": "<b>Detalles de la oferta:</b><ul><li>Hasta $160 de descuento</li><li>Aplica pagando con Tarjeta VR, tarjeta de crédito, tarjeta de débito, Alelo, Tarjeta ELO, posterminal_debitcard, datáfono (Crédito), PayPal, default, GooglePay, Sodexo, RappiPay, RappiCard, Edenred, ApplePay, Nequi, PSE, PIX, Mercado Pago, pse_avanza, Bancolombia, Nubank</li><li>Oferta válida hasta agotar existencias</li></ul>",
           "progress_bar_details": null,
-          "expires_at": "2026-05-08 23:59:59"
+          "expires_at": "2027-05-09 00:04:00"
         },
         "card_version": null,
         "card_images": null,
@@ -5783,34 +5848,34 @@
         "type_filter": "shipping_filter"
       },
       {
-        "id": 5217341,
+        "id": 5054631,
         "type": "offer_by_product",
-        "tag": "64% OFF",
+        "tag": "Hasta 56% Off",
         "metadata": {},
-        "title": "Mcdo (06/04/2026)",
+        "title": "[Masiva] Hasta 31.4465% Off McTrío mediano 2 Hamburguesas con Queso",
         "description": "Partner App Discount-Product",
         "message": "",
         "url": "",
-        "value": 64,
+        "value": 56,
         "min_amount": null,
         "is_prime_exclusive": false,
         "action": null,
         "conditions": "<b>Detalles de la oferta:</b><ul><li>Oferta válida hasta agotar existencias</li></ul>",
         "apply_to_user": true,
         "card_details": {
-          "title": "Hasta 64% OFF imperdible",
+          "title": "Hasta 56% OFF imperdible",
           "description": "Disfruta este descuento en tu pedido y recíbelo en minutos.",
           "image": "https://rappi-images-upload-co.s3.amazonaws.com/home-ab-objects/icon-filled_promotion-1706635945.png",
-          "ends_at": "2026-04-13 00:00:00",
+          "ends_at": "2031-03-19 00:00:00",
           "applicable_stores": "Aplica en Mc Donald's  - Parque Hundido",
           "terms_and_conditions": "",
           "conditions": "<b>Detalles de la oferta:</b><ul><li>Oferta válida hasta agotar existencias</li></ul>",
           "progress_bar_details": null,
-          "expires_at": "2026-04-13 00:00:00"
+          "expires_at": "2031-03-19 00:00:00"
         },
         "card_version": null,
         "card_images": null,
-        "is_viral_deal": true,
+        "is_viral_deal": false,
         "color": "#76d548",
         "type_filter": "percentage_filter"
       }

@@ -3,41 +3,41 @@
     {
       "rank": 1,
       "title": "Ventaja exclusiva de Rappi en Santa Fe — amplificar, no neutralizar",
-      "finding": "En Santa Fe, Rappi vende el Big Mac Tocino a $145 MXN mientras que Uber Eats y DiDi lo venden a $165 MXN (-12% Rappi). Es la ÚNICA zona del estudio donde Rappi tiene precio estrictamente menor en las 3 plataformas, y ocurre en una zona corporativa premium con alta demanda business.",
+      "finding": "En Santa Fe, Rappi vende el Big Mac a $125 MXN mientras que Uber Eats y DiDi lo venden a $145 MXN (-14% Rappi). Es la ÚNICA zona donde Rappi tiene precio estrictamente menor en las 3 plataformas, y ocurre en una zona corporativa premium con alta demanda business.",
       "impact": "Rappi tiene una ventaja de $20 MXN por orden en una zona de alto ticket promedio y alta frecuencia. Esta ventaja es invisible al usuario hoy: nadie sabe que Rappi es más barato porque no se comunica.",
-      "recommendation": "Lanzar campaña de price-match guarantee localizada en Santa Fe ('Rappi te garantiza el mejor precio en Santa Fe vs Uber Eats y DiDi'). Push notifications a usuarios corporativos en horario de almuerzo (12-14h). NO subir precios para 'igualar' competencia — eso destruiría la ventaja.",
+      "recommendation": "Lanzar campaña de price-match guarantee localizada en Santa Fe. Push notifications a usuarios corporativos en horario de almuerzo (12-14h). NO subir precios para 'igualar' competencia — eso destruiría la ventaja.",
       "priority": "alta"
     },
     {
       "rank": 2,
-      "title": "Uber Eats está subsidiando agresivamente Iztapalapa — amenaza estructural",
-      "finding": "En Iztapalapa (zona de bajo poder adquisitivo), Uber Eats vende Big Mac a $115 MXN (-21% vs $145 de Rappi/DiDi), Coca-Cola a $49 vs $55, McNuggets a $145 vs $159, y McTrío a $139 vs $169 (-18%). Es la ÚNICA zona donde Uber descuenta 4 productos simultáneamente. Uber Eats redujo su menú en Iztapalapa a solo 6 productos visibles vs 12 en otras zonas — señal de testing focalizado.",
-      "impact": "Rappi tiene tradicionalmente alto share en zonas periféricas. Uber Eats está ejecutando un pricing-led customer acquisition play en una zona que históricamente le ha sido difícil. Si Rappi no reacciona, perderá usuarios de bajo LTV pero alta frecuencia.",
-      "recommendation": "Implementar match defensivo en Iztapalapa: descuento del 15-20% en Big Mac y combos por tiempo limitado (4-6 semanas). Trackear cuándo Uber retira el subsidio (probable, dado que solo afecta una zona). Una vez retirado, Rappi puede mantener pricing pero con cupón de retención personalizado.",
+      "title": "Rappi implementó delivery fee dinámico — Polanco $20, Ecatepec $0, resto $9.90",
+      "finding": "El delivery fee de Rappi ya NO es uniforme. Polanco paga $20 MXN (zona premium, alta demanda), Ecatepec paga $0 (zona periférica, estrategia de penetración), y las 6 zonas restantes pagan $9.90. Además, el ETA en Ecatepec subió a 49 min vs 12 min en zonas céntricas.",
+      "impact": "Rappi está usando dynamic pricing en delivery: cobra más donde la demanda es alta (Polanco) y subsidia donde quiere ganar share (Ecatepec). Esto es una señal de sofisticación en pricing, pero el trade-off en Ecatepec (gratis pero 49 min de espera) puede dañar la experiencia de usuario.",
+      "recommendation": "Monitorear NPS en Ecatepec — delivery gratis con 49 min de ETA puede generar insatisfacción. En Polanco, el $20 de fee se justifica si el ETA es competitivo (12 min). Comunicar el fee de Polanco como 'envío express' para anclar la percepción de valor.",
       "priority": "alta"
     },
     {
       "rank": 3,
-      "title": "Rappi gana sistemáticamente en combos vs Uber Eats — capitalizar el value play",
-      "finding": "En el McTrío Big Mac, Rappi cobra $169-189 MXN según zona, mientras que Uber Eats cobra $208-218 MXN. Diferencia de $20-49 MXN por combo (-23% a -29% a favor de Rappi) en 7 de las 8 zonas. DiDi sigue el precio de Rappi. Esto significa que Uber Eats negocia margen en combos mientras Rappi compite por volumen.",
-      "impact": "Los combos son donde el ticket promedio es más alto y donde el usuario es más sensible al precio (compra familiar/grupal). Rappi tiene 23-29% de ventaja invisible en el producto de mayor margen.",
-      "recommendation": "Crear sección destacada 'Combos al mejor precio' en la home de Rappi para usuarios MX. Comparativo de precios head-to-head con Uber Eats en las páginas de combo (asumiendo legalidad). Targeting de campañas a usuarios que históricamente piden combos.",
+      "title": "Uber Eats descuenta agresivamente en Del Valle — amenaza en zona mid-high",
+      "finding": "En Del Valle, Uber Eats vende el Big Mac a $125 MXN mientras que Rappi y DiDi lo venden a $139 MXN (-10% Uber). Del Valle es zona residencial mid-high con alta frecuencia de pedidos. Uber está ejecutando pricing selectivo por zona, igual que hizo en Iztapalapa el mes pasado.",
+      "impact": "Si Uber mantiene el descuento, Rappi puede perder usuarios price-sensitive en una zona de alto volumen. Del Valle es la segunda zona más poblada del estudio.",
+      "recommendation": "Match defensivo con cupón personalizado para usuarios de Del Valle que no han pedido en 7+ días. Trackear si Uber retira el subsidio (probable, dado que es un play temporal). No bajar precio base — usar cupones para no erosionar margen en otras zonas.",
       "priority": "alta"
     },
     {
       "rank": 4,
-      "title": "El delivery fee uniforme de Rappi ($9.90 en todas las zonas) es una palanca de marketing no usada",
-      "finding": "Rappi cobra delivery fee idéntico de $9.90 MXN en las 8 zonas (premium, mid, low). En cambio, el ETA varía 2x: Santa Fe 12 min vs Ecatepec 25 min, Polanco 35 min. Service fee = 0% en todas las zonas. Uber Eats y DiDi no exponen su estructura de fees públicamente.",
-      "impact": "Rappi tiene un mensaje de pricing extremadamente simple ('siempre $9.90 de envío') que ningún competidor está comunicando. Es un anclaje psicológico potente especialmente en zonas periféricas donde competencia podría tener fees variables. Pero hoy es un activo dormido.",
-      "recommendation": "Tagline en home: 'Envío $9.90 a CDMX, sin importar la zona'. A/B test sobre conversion rate. Considerar promesa: 'Si encuentras delivery más barato, te igualamos'. No bajar el delivery fee — su consistencia es el activo, no su valor absoluto.",
+      "title": "Rappi gana sistemáticamente en combos vs competencia",
+      "finding": "El McTrío Big Mac en Rappi cuesta $169-189 MXN según zona, mientras que DiDi cobra hasta $308 MXN y Uber Eats $208 MXN. Rappi es consistentemente el más barato en combos en la mayoría de las zonas.",
+      "impact": "Los combos son el producto de mayor ticket promedio y donde familias/grupos son más sensibles al precio. Rappi tiene ventaja invisible en el producto de mayor margen.",
+      "recommendation": "Crear sección destacada 'Combos al mejor precio' en la home de Rappi MX. Targeting de campañas a usuarios que históricamente piden combos familiares.",
       "priority": "media"
     },
     {
       "rank": 5,
-      "title": "Pricing diferenciado por store (no por zona socioeconómica) — auditar la lógica de tarificación",
-      "finding": "El pricing NO sigue el poder adquisitivo de la zona. Iztapalapa (low) tiene Big Mac a $145 igual que Polanco (premium). Sin embargo, Coyoacán (mid) y Del Valle (mid-high) tienen Big Mac a $165 y $159 respectivamente — más caros que Polanco. Esto se replica idéntico en Rappi y DiDi. La hipótesis es que McDonald's MX setea precios por costo operacional del franquiciado individual, no por demanda de zona.",
-      "impact": "Rappi no controla este pricing (lo setea el merchant), pero la estructura genera oportunidades de arbitraje para usuarios cercanos a múltiples zonas. Un usuario en frontera Del Valle/Polanco puede ahorrar $14 pidiendo a Polanco. Hoy ningún player explota esto.",
-      "recommendation": "Feature de UX: 'Smart Store Picker' — cuando el usuario está en frontera entre zonas, Rappi sugiere automáticamente el McDonald's más barato dentro del radio de delivery. Esto requiere zero negociación con McDonald's pero mejora tangiblemente el ticket percibido del usuario. Diferenciador puro de Rappi vs Uber/DiDi que listan stores ordenados solo por distancia.",
+      "title": "Pricing diferenciado por store, no por zona socioeconómica — auditar lógica de tarificación",
+      "finding": "El pricing NO sigue el poder adquisitivo de la zona. Iztapalapa (low) tiene Big Mac a $125 igual que Polanco (premium). Pero Coyoacán (mid) y Del Valle (mid-high) tienen Big Mac a $145 y $139 respectivamente — más caros que Polanco. Esto se replica en Rappi y DiDi.",
+      "impact": "McDonald's MX setea precios por franquiciado individual, no por demanda de zona. Un usuario en frontera Del Valle/Polanco puede ahorrar $14 pidiendo a Polanco.",
+      "recommendation": "Feature de UX: 'Smart Store Picker' — cuando el usuario está entre zonas, Rappi sugiere automáticamente el McDonald's más barato dentro del radio de delivery. Diferenciador puro vs Uber/DiDi.",
       "priority": "media"
     }
   ]
